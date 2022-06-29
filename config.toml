@@ -1,0 +1,29 @@
+baseURL = "https://sigturk.github.io/"
+languageCode = "en"
+title = "SIGTURK"
+
+[markup.asciidocExt]
+  extensions = [
+    # "asciidoctor-html5s",
+    "asciidoctor-bibtex",
+    "asciidoctor-diagram",
+    # "asciidoctor-interdoc-reftext",
+    # "asciidoctor-katex",
+    # "asciidoctor-latex",
+    # "asciidoctor-mathematical",
+    # "asciidoctor-question",
+    # "asciidoctor-rouge"
+  ]
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
+    osEnv = ["(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|RUBYLIB)$"]
+
+  [security.funcs]
+    getenv = ["^HUGO_"]
+
+  [security.http]
+    methods = ["(?i)GET|POST"]
+    urls = [".*"]

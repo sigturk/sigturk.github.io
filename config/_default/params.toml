@@ -1,0 +1,95 @@
+# Meta Data for SEO
+
+## Homepage
+title = "SIGTURK"
+titleSeparator = "-"
+titleAddition = "ACL Special Interest Group on Turkic Languages"
+description = "ACL Special Interest Group on Turkic Languages"
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = [""]
+ogLocale = "en"
+domainTLD = "sigturk.github.io"
+titleHome = "SIGTURK"
+
+## Twitter Cards
+twitterSite = ""
+twitterCreator = ""
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "SIGTURK"
+schemaAuthor = "ACL Special Interest Group on Turkic Languages"
+schemaAuthorTwitter = ""
+schemaAuthorLinkedIn = ""
+schemaAuthorGitHub = "https://github.com/sigturk"
+schemaLocale = "en"
+schemaLogo = ""
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = ""
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/sigturk"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Footer
+footer = ""
+
+# Feed
+copyRight = ""
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = ""
+alertText = ""
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/sigturk/sigturk"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = false
+lastMod = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = false
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true

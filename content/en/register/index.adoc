@@ -1,0 +1,16 @@
+---
+title: "Register"
+description: "ACL Special Interest Group on Turkic Languages Register"
+date: 2020-08-27T19:25:12+02:00
+lastmod: 2020-08-27T19:25:12+02:00
+draft: false
+images: []
+---
+
+To start joining membership, you should fill out the https://forms.gle/JTdGeGeGRKXEw1xh6[form].
+
+++++
+<a class="btn btn-primary btn-lg px-4 mb-2" href="https://forms.gle/JTdGeGeGRKXEw1xh6" role="button">Registration Form</a>
+++++
+
+Tentatively, SIGTURK shares the Turkic Interlingua communication utilities. To receive informative updates, for the time being, you can join the TIL https://t.me/joinchat/WRFz62nYdmJ1uo1L[Telegram] or https://join.slack.com/t/turkic-interlingua/shared_invite/zt-ueskj991-N2cEGXakrW0gjTMQmWWPqg[Slack].

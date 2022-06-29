@@ -1,0 +1,103 @@
+---
+title: "Constitution"
+description: "ACL Special Interest Group on Turkic Languages Constitution"
+date: 2020-08-27T19:25:12+02:00
+lastmod: 2020-08-27T19:25:12+02:00
+draft: false
+toc: true
+images: []
+contributors: []
+---
+
+:toc:
+
+https://sigturk.github.io/assets/pdf/SIGTURK_Constitution.pdf[PDF version]
+
+== I. TURKIC LANGUAGES
+
+* Turkic language family includes approximately half a billion speakers around the world
+* Specially focused around the geographical range across the Eurasian continent
+* The status of recognition and formalization of the languages may range from national status to critically endangered
+* From the scientific perspective, the Turkic languages form a unique working ground,
+marked by a striking structural similarity, as well as an easily recognizable shared core vocabulary and inflectional inventory, which span the entire group of languages. These features—despite a lack of mutual intelligibility—create a very special environment, in which researchers can naturally and readily appreciate shared problems and solutions in computational linguistics;
+
+== II. STATEMENT OF PURPOSE
+
+The purpose of the Association for Computational Linguistics (ACL) Special Interest Group on Turkic languages (the SIG) shall exist in order to:
+
+* Promote interest in the Turkic languages among practitioners of computational linguistics;
+* Provide members of the ACL with a community of special interest in Turkic languages with a means of exchanging news of recent research developments and other matters of interest in Turkic languages;
+* Publish and maintain language resources in Turkic languages;
+* Support, sponsor, facilitate and coordinate efforts related to organization of events,
+meetings, workshops and conferences to create collaboration opportunities for
+communities of researchers and scientists working on the Turkic languages;
+* Supporting and initiating projects on language resources and technologies serving
+Turkic-speaking communities;
+* Organise and make available funding and resources for specialist work;
+
+== III. ELECTED OFFICERS
+
+The elected officers of the SIG shall consist of a President, a Secretary and up to 4 other officers, constituting the Executive Committee. The President and Secretary shall be members in good standing of the ACL.
+
+The term of all elected officers of the SIG shall be 1 year.
+
+The duties of the President shall be:
+
+(1) To have primary executive authority over actions and activities of the SIG.
+
+(2) To prepare a written report on the activities of the SIG for the Executive Committee of the ACL, for presentation to the ACL at its Annual Business Meeting.
+
+(3) To designate a Liaison Representative for the SIG, who shall be primarily responsible for communication with members of the SIG, answering inquiries about the SIG, and communication with the Executive Committee of the ACL.
+
+The duties of the Secretary shall be:
+
+(1) To maintain a membership roster of the SIG.
+
+(2) To be responsible for any monies awarded to the SIG by the ACL; to collect and manage any dues that may be required by the organization; and to present a written annual report on the SIG finances to the Executive Committee of the ACL.
+
+(3) To act as a Liaison Representative, who shall be primarily responsible for communication with members of the SIG, answering inquiries about the SIG, and communication with the Executive Committee of the ACL.
+
+The duties of the Officers shall be:
+
+(1) Maintenance of the website for the SIG (and potentially TIL) and keeping content and contacts up-to-date
+
+(2) Maintenance and distribution of the data and code repositories under the purview of the SIG
+
+(3) Organizing of the workshops related to the SIG’s primary interests
+
+(4) Forming, organizing and maintaining special subgroups within the SIG
+
+== IV. International Advisory Committee
+
+The SIGTURK community will occasionally invite members from the scientific community or language or technology experts to serve on the international advisory committee.
+
+The IAC members are referred by members to serve on the committee by invitation and they should provide expertise about their language and/or area of research
+
+Duties of the AIC:
+
+(1) acts as a liaison for the language between the SIG and local (research, native
+speaker) community working with the language of interest
+
+(2) supports and provides expert feedback on SIGTURK projects
+
+== V. ELECTION OF OFFICERS
+
+All officers of the SIG shall be elected by a vote of the membership. The vote shall take place at least one month before the expiration of the terms of the officers to be elected, with at least two months' notice of nominations to SIG members.
+
+Members can nominate other members to eligible positions and/or can self-nominate. Ballots with the names of the candidates will be delivered electronically via email provided by the members and votes will be collected three weeks after distribution of the ballots. The votes   
+ are counted by all officers in a public meeting and the results are decided using a single transferable vote mechanism.
+
+== VI. MEMBERSHIP
+
+Membership is open to anyone who expresses an interest in NLP in Turkic languages. ACL membership is not required. Membership can be obtained through provided electronic means. There is no membership fee. Membership will be terminated on request.
+
+== VII. REFERENDA
+
+A change to this constitution, or a motion on any other matter, may be initiated by five members (petitioners) in writing. The motions will be put to the members within six months of receipt of a petition, if the petitioners so request. Otherwise, constitutional amendments and other motions will be put to the vote in conjunction with the regular elections.
+
+Whenever there is a referendum to take place, the election procedure with two months notice period is applied. After the decision to initiate the referendum, further motions (including constitutional amendments) proposed by three members shall be accepted up to one month before the start of voting. Motions may be modified or withdrawn by their proposers at any time before the start of voting. All members of the SIG shall be notified promptly of all motions and modifications thereto, to permit discussion.
+
+Votes may be entered by electronic mail and votes arriving by the notified closing date will be counted by all officers in a public meeting. The voting period shall be at least three weeks, and the results shall be communicated promptly to the members.
+
+Any change to this constitution requires a two-thirds majority of those votes received from eligible voters and is subject to approval by the ACL. Any other matter requires a simple majority.
+

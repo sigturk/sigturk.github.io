@@ -1,0 +1,110 @@
+= Code of Conduct
+
+== Our Pledge
+
+We, as members, contributors, and leaders of the Antora project, are committed to making participation in our community a welcoming and harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+A community where people feel comfortable is a productive community.
+
+== Our Standards
+
+Examples of behavior that contributes to a positive environment for our community include:
+
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Being open to ideas that make your ideas better
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and reconciling with those affected by our mistakes, then taking the time to reflect and learn from the situation
+* Focusing on what is best not just for us as individuals, but for the overall community
+* Leading by example
+
+Examples of unacceptable behavior include:
+
+* Insulting, derogatory, demeaning, shaming, or exclusionary comments
+* Public or private harassment or personal attacks
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* Deliberate or repetitive use of a name or pronoun different than what the individual prefers and has clearly declared
+* Trolling, spamming, swarming, flaming, baiting, or other attention-stealing behavior
+* Demanding an immediate action or code change, or one that's not aligned with the goals of the project
+* Publishing others`' private information, such as a physical or email address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting or which community leaders have determined to be inappropriate in this setting
+
+This isn't an exhaustive list of unacceptable behavior.
+Please be aware of your impact on other people and take responsibility for your own actions.
+If someone says they have been harmed by your words or actions, listen carefully and correct your behavior going forward.
+Specifically, if someone asks you to stop, then stop.
+Persisting or being defensive after being asked to stop is considered harassment.
+
+Please take these standards in the spirit in which they are intended, as guidelines to make our community a harassment-free experience for everyone.
+
+== Differences and Disagreements
+
+We're a worldwide community and we come from many cultures and backgrounds.
+Remember that you may not be communicating in someone's primary language.
+Give people time to formulate their thoughts and respond.
+The idioms and slang you use may not be understood, or worse, may be interpreted as offensive.
+Listen and update your language when necessary by considering the needs of others from their point of view.
+In general, work to eliminate your own biases, prejudices, and discriminatory practices.
+
+We're not always going to agree, but a disagreement is no excuse for poor behavior.
+It's important to resolve disagreements respectfully.
+When working to resolve a disagreement, be respectful, remain open to different outcomes, and strive to be teachable.
+
+Architectural, design, and implementation decisions were made using the best information that was available at the time.
+Circumstances change, and therefore, a past decision may not always make sense when viewed through the lens of the present.
+Trade-offs have to be made and there's seldom one right answer.
+Please be considerate of this actuality when stating your case.
+Rather than blaming someone for what you perceive to be a mistake, focus on helping to resolve the issue while leaving space for that person to learn from it.
+Be direct, constructive, and positive.
+
+== Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+
+== Scope
+
+This Code of Conduct applies within all community spaces managed by the Antora project;
+including the project chat; repositories, issue trackers, and merge requests; face-to-face meetings and community events.
+It also applies when an individual is officially representing the community in other public spaces.
+Examples of representing our community include using an official email address, posting via an official social media account, posting via a social media account on behalf of the community or community project, or acting as an appointed representative at an online or offline event.
+
+== Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at conduct@opendevise.com.
+All complaints will be reviewed and investigated promptly and fairly.
+
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+
+== Enforcement Guidelines
+
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+=== 1. Warning
+
+*Community Impact*: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community, whether a single incident or a series of actions.
+
+*Consequence*: A warning from a community leader, referencing this Code of Conduct and citing that reason for why the language or behavior is deemed a violation.
+Violating these terms or retaliating against the warning will lead to a temporary suspension or permanent ban.
+
+=== 2. Temporary Suspension
+
+*Community Impact*: A serious or sustained violation of community standards.
+
+*Consequence*: A temporary suspension from any sort of interaction or public communication with the community for a specified period of time.
+No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms or retaliating against the warning will lead to a permanent ban.
+
+=== 3. Permanent Ban
+
+*Community Impact*: Demonstrating a pattern of violation, a dismissal of community standards, a disruption of the community, harassment of an individual, or aggression towards or disparagement of a group of individuals.
+
+*Consequence*: A permanent ban from any form of public interaction within the community.
+
+== Attribution
+
+This Code of Conduct is adapted from the https://www.contributor-covenant.org[Contributor Covenant], version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Additional text is adapted from the https://www.mozilla.org/en-US/about/governance/policies/participation/[Mozilla Community Participation Guidelines], the https://www.rust-lang.org/conduct.html[Rust Language Code of Conduct], and the https://www.freebsd.org/internal/code-of-conduct/[FreeBSD Community Code of Conduct].
+Community Impact Guidelines were inspired by https://github.com/mozilla/diversity[Mozilla's code of conduct enforcement ladder].

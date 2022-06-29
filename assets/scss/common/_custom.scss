@@ -1,0 +1,7 @@
+/** Custom styles */
+
+.header-bar {
+  border-top: 4px solid;
+  border-image-source: linear-gradient(90deg, red 16.66%, orange 33.33%, yellow 50%, green 66.66%, blue 83.33%, indigo);
+  border-image-slice: 1;
+}

@@ -1,0 +1,14 @@
+---
+title: "SIGTURK"
+description: "ACL Special Interest Group on Turkic Languages"
+lead: "ACL Special Interest Group on Turkic Languages"
+date: 2020-11-04T09:19:42+01:00
+lastmod: 2020-11-04T09:19:42+01:00
+draft: false
+weight: 50
+images: []
+contributors: []
+---
+
+== A way to go in recursively!
+
