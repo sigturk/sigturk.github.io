@@ -12,7 +12,9 @@ President:: Duygu Ataman mailto:sigturk-president@gmail.com[(email)]
 
 Secretary:: Sardana Ivanova mailto:sigturk-secretary@gmail.com[(email)]
 
+
 == Advisory Committee
+
 
 == Organization Contributors
 
@@ -22,3 +24,4 @@ Secretary:: Sardana Ivanova mailto:sigturk-secretary@gmail.com[(email)]
 * Jonne Sälevä link:++https://github.com/j0ma++[(GitHub)]
 
 == Code Contributors
+
