@@ -52,8 +52,8 @@ jobs:
       run: echo "::set-output name=branch_from_ref::$(python3 ./tools/branch-from-ref.py ${{ github.ref }})"
     - name: Black
       run: black **/*.py --check
-    - name: Pylama
-      run: pylama **/*.py
+    # - name: Pylama
+    #   run: pylama **/*.py
     - name: Bandit
       run: bandit **/*.py -ll
     - name: NFKC
