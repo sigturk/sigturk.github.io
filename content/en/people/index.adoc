@@ -1,0 +1,24 @@
+---
+title: "People"
+description: "ACL Special Interest Group on Turkic Languages People"
+date: 2020-08-27T19:25:12+02:00
+lastmod: 2020-08-27T19:25:12+02:00
+draft: false
+images: []
+contributors: []
+---
+
+President:: Duygu Ataman mailto:sigturk-president@gmail.com[(email)]
+
+Secretary:: Sardana Ivanova mailto:sigturk-secretary@gmail.com[(email)]
+
+== Advisory Committee
+
+== Organization Contributors
+
+* Mehmet Oguz Derin link:++https://github.com/mehmetoguzderin++[(GitHub)]
+* Mammad Hajili link:++https://github.com/mammadhajili++[(GitHub)]
+* Jamshidbek Mirzakhalov link:++https://github.com/mirzakhalov++[(GitHub)]
+* Jonne Sälevä link:++https://github.com/j0ma++[(GitHub)]
+
+== Code Contributors
