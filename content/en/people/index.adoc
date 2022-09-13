@@ -6,6 +6,8 @@ images: []
 contributors: []
 ---
 
+== Officers
+
 President:: Duygu Ataman mailto:sigturk-president@gmail.com[(email)] link:++https://github.com/d-ataman++[(GitHub)]
 
 Secretary:: Sardana Ivanova mailto:sigturk-secretary@gmail.com[(email)] link:++https://github.com/varie++[(GitHub)]

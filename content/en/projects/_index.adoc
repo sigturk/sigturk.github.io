@@ -1,7 +1,0 @@
----
-title: "Projects"
-description: "ACL Special Interest Group on Turkic Languages Projects"
-draft: false
-images: []
-contributors: []
----
