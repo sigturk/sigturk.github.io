@@ -14,20 +14,15 @@ Secretary:: Sardana Ivanova mailto:sigturk.secretary@gmail.com[(email)] link:++h
 
 === Officers
 
-* To be elected
-* To be elected
-* To be elected
-* To be elected
+* Mehmet Oguz Derin link:++https://github.com/mehmetoguzderin++[(GitHub)]
+* Mammad Hajili link:++https://github.com/mammadhajili++[(GitHub)]
+* Jamshidbek Mirzakhalov link:++https://github.com/mirzakhalov++[(GitHub)]
+* Jonne Sälevä link:++https://github.com/j0ma++[(GitHub)]
 
 == Advisory Committee
 Kemal Oflazer, Carnegie Mellon University link:++https://www.andrew.cmu.edu/user/ko/++[(Webpage)]
 
 == Organization Contributors
-
-* Mehmet Oguz Derin link:++https://github.com/mehmetoguzderin++[(GitHub)]
-* Mammad Hajili link:++https://github.com/mammadhajili++[(GitHub)]
-* Jamshidbek Mirzakhalov link:++https://github.com/mirzakhalov++[(GitHub)]
-* Jonne Sälevä link:++https://github.com/j0ma++[(GitHub)]
 
 == Code Contributors
 
