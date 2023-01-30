@@ -1,0 +1,32 @@
+---
+title: "Welcome to SIGTURK meeting on 30th of January!"
+description: ""
+excerpt: ""
+date: 2023-01-30
+draft: false
+contributors: ["Sardana Ivanova"]
+pinned: false
+homepage: false
+---
+
+Dear SIGTURK members,
+
+Happy new year!
+
+We will have our first meeting of the year on 30th of January at 17:00 UTC (09:00 UTC-8).
+
+The meeting will take place on Jitsi Meet:
+
+https://meet.jit.si/moderated/e4d46a94ff37d4b167735882da64c1af93e45da07edaf210281c22141c673faf
+
+Welcome! There is also an event in Google Calendar of SIGTURK. Please, refer to the Google Calendar invite time, if you have any confusions about time.
+
+You can find some current issues to be discussed in our repository:
+
+https://github.com/sigturk/sigturk/issues
+
+Kind regards,
+
+Sardana
+
+SIGTURK Secretary
