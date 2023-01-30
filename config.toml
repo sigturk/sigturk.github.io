@@ -19,7 +19,7 @@ title = "SIGTURK"
   enableInlineShortcodes = false
   [security.exec]
     allow = ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
-    osEnv = ["(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|RUBYLIB)$"]
+    osEnv = ["(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM|RUBYLIB|GEM_PATH)$"]
 
   [security.funcs]
     getenv = ["^HUGO_"]
