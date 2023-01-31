@@ -1,0 +1,53 @@
+---
+title: "Code of Ethics and Conduct"
+description: "ACL Special Interest Group on Turkic Languages Code of Ethics and Conduct"
+draft: false
+toc: true
+images: []
+contributors: []
+---
+
+:toc:
+
+== Introduction
+
+SIGTURK is an ACL Special Interest Group on Turkic Languages that aims to foster community brainstorming and collaboration on events and resources for the public good in open source. As these processes involve sync and async communication, this document includes professional standards all participants of SIGTURK and SIGTURK-related dialogue must uphold to promote formal reliability of SIGTURK outputs, respect, competence, responsibility, and integrity while recognizing the rapidly changing society and the necessity to exercise more considerable caution in this spirit by every participant.
+
+SIGTURK also recognizes the following documents as authoritative, and their reading should interpret the authoring organization's name as SIGTURK under all respect to the license of the individual page:
+
+* ACL Code of Ethics: https://www.aclweb.org/portal/content/acl-code-ethics
+* ACL Anti-Harassment Policy: https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy
+* ACM Code of Ethics and Professional Conduct: https://www.acm.org/code-of-ethics
+* W3C Code of Ethics and Professional Conduct: https://www.w3.org/Consortium/cepc
+* GitHub Community Code of Conduct: https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct
+* RISC-V Community Code of Conduct: https://riscv.org/community/community-code-of-conduct/
+* SIL Basic Principles of Ethical Research in Fieldwork: https://www.sil.org/about/discover/academic-research
+
+These organizations and codes of ethics and conduct are model documents for SIGTURK with authoritative relevance.
+
+== Pledge
+
+In the interest of fostering an open and welcoming environment, we as participants pledge to make participation in SIGTURK and SIGTURK Community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, perspectives, or sexual identity and orientation. We are present in this organization for common work denominators that we deem worthy of contribution through self-assessment and pledge to respect alternative interpretations for building a common framework for interoperable, reusable, and measurable additions.
+
+== Standards
+
+Examples of behavior that contributes to creating a positive environment include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Trafficking in disinformation, unsubstantiated slanderous rumors, and conspiracy theories
+* Public or private harassment
+* Publishing others' confidential information, such as a physical or electronic address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
+
+== Enforcement
+
+This document should be either directly present or be an explicitly visible reference link in all SIGTURK efforts, including events and resources. Any reported violation should be subject to immediate investigation and deterrent action in line with ACL guidelines by the Executive Committee of SIGTURK.
