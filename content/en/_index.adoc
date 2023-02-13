@@ -1,7 +1,7 @@
 ---
 title : "SIGTURK"
-description: "SIGTURK is an ACL Special Interest Group on Turkic Languages."
-lead: "SIGTURK is an ACL Special Interest Group on Turkic Languages. This SIG is a place of discussion and implementation for all enthusiasts, including students, researchers, professionals, and hobbyists, of Turkic languages and their linguistics, primarily focusing on natural language processing (NLP). SIGTURK has a traceable process with observable inputs that have an accessible ticketing place, with a visible function that maps to output."
+description: "SIGTURK is the ACL Special Interest Group on Turkic Languages."
+lead: "SIGTURK is the ACL Special Interest Group on Turkic Languages. It is a place of discussion and implementation for all enthusiasts, including students, researchers, academics, industry professionals, and hobbyists, interested in studying the computational and linguistic aspects of Turkic languages and making more publicly available knowledge, methodology and resources for contributing to the field of computational linguistics in Turkic languages."
 draft: false
 images: []
 contributors: []
