@@ -11,4 +11,4 @@ To start joining membership, you should fill out the https://forms.gle/JTdGeGeGR
 <a class="btn btn-primary btn-lg px-4 mb-2" href="https://forms.gle/JTdGeGeGRKXEw1xh6" role="button">Registration Form</a>
 ++++
 
-Tentatively, SIGTURK shares the Turkic Interlingua communication utilities. To receive informative updates, for the time being, you can join the TIL https://t.me/joinchat/WRFz62nYdmJ1uo1L[Telegram] or https://join.slack.com/t/turkic-interlingua/shared_invite/zt-ueskj991-N2cEGXakrW0gjTMQmWWPqg[Slack].
+You can become a member of SIGTURK and be updated on recent information and activities by joining our communication channels on https://t.me/+RmCudqEJbMUxOTk8[Telegram] and https://join.slack.com/t/sigturk/shared_invite/zt-1pba9n2k3-d1AJLFDd4LXOLE_UE8y4fw[Slack].
