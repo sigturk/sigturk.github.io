@@ -14,19 +14,24 @@
   weight = 30
 
 [[main]]
+  name = "Code of Ethics and Conduct"
+  url = "/coec/"
+  weight = 40
+
+[[main]]
   name = "News"
   url = "/news/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Projects"
   url = "/projects/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "/contact/"
-  weight = 60
+  weight = 70
 
 [[social]]
   name = "GitHub"
