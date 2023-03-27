@@ -1,0 +1,68 @@
+---
+title: "Constitutional amendment motion: Increase number of officers from 4 to 5"
+description: ""
+excerpt: ""
+date: 2023-03-06
+draft: false
+contributors: ["Jonne Sälevä"]
+pinned: false
+homepage: false
+---
+
+Dear Members of the SIG, 
+
+I hope this email finds you well. As you may know, our constitution 
+outlines the structure and function of our organization. We believe that 
+it is important to periodically review and update our constitution to 
+reflect changes in our membership and evolving needs. 
+
+Currently, our constitution states: 
+
+> The elected officers of the SIG shall consist of a President, a Secretary 
+> and up to 4 other officers, constituting the Executive Committee. The 
+> President and Secretary shall be members in good standing of the ACL. 
+
+We are proposing a minor amendment to this paragraph to allow for up to 
+5 other officers on the Executive Committee. The proposed amended 
+paragraph is as follows: 
+
+> The elected officers of the SIG shall consist of a President, a Secretary 
+> and up to 5 other officers, constituting the Executive Committee. The 
+> President and Secretary shall be members in good standing of the ACL. 
+
+We believe that this amendment will allow for more diverse perspectives 
+on the Executive Committee and improve our ability to achieve our goals 
+as an organization. 
+
+This amendment was initiated on GitHub[0] and is supported by the 
+following members:
+
+1. Jonne Sälevä (@j0ma) 
+2. Sardana Ivanova (@varie) 
+3. Mehmet Oguz Derin (@mehmetoguzderin) 
+4. Aziza Mirsaidova (@azizamirsaidova) 
+5. Jamshidbek Mirzakhalov (@mirzakhalov) 
+6. Mammad Hajili (@mammadhajili) 
+
+[0]: https://github.com/sigturk/sigturk/issues/65 
+
+Voting on this amendment will begin in two months on May 5th, 2023. The 
+voting period will last for three weeks. Further motions are permitted 
+until one month prior to voting, which is April 5th, 2023. Please note 
+that any further motions must be supported by at least three members. 
+
+We encourage all members to participate in the voting process and to 
+submit any further motions they may have by the April 5th deadline. Your 
+input is valuable to us and we appreciate your continued support of our 
+organization. To suggest a further motion, you can open an issue on 
+GitHub or submit complete motions with the names of the supporting 
+members attached via email to the Secretary. 
+
+Thank you for your attention to this matter. If you have any questions 
+or concerns, please do not hesitate to reach out to us. 
+
+Sincerely, 
+
+Jonne Sälevä 
+
+Officer, SIGTURK
