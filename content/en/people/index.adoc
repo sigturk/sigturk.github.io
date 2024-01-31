@@ -16,15 +16,19 @@ Secretary:: Sardana Ivanova mailto:sigturk.secretary@gmail.com[(email)] link:++h
 
 * Mehmet Oguz Derin link:++https://github.com/mehmetoguzderin++[(GitHub)]
 * Mammad Hajili link:++https://github.com/mammadhajili++[(GitHub)]
-* Abdullatif Köksal link:++https://akoksal.com++[(GitHub)]
+* Abdullatif Köksal link:++https://github.com/akoksal++[(GitHub)]
+* Aziza Mirsaidova link:++https://github.com/azizamirsaidova++[(GitHub)]
 * Jonne Sälevä link:++https://github.com/j0ma++[(GitHub)]
 
 == Organization Contributors
+
 * Deniz Zeyrek Bozşahin, Middle East Technical University link:++https://users.metu.edu.tr/dezeyrek/++[(Webpage)]
 * Necva Bölücü, CSIRO link:++https://people.csiro.au/b/n/necva-bolucu++[(Webpage)]
 
 == Advisory Committee
+
 * Kemal Oflazer, Carnegie Mellon University link:++https://www.andrew.cmu.edu/user/ko/++[(Webpage)]
 
 == Code Contributors
 
+* Jamshidbek Mirzakhalov link:++https://github.com/mirzakhalov++[(GitHub)]
