@@ -1,0 +1,93 @@
+---
+title: "Workshop"
+description: "ACL Special Interest Group on Turkic Languages Workshop 2024"
+draft: false
+images: []
+contributors: []
+---
+
+= First Workshop of SIGTURK, the ACL Special Interest Group on Turkic Languages
+
+== Introduction
+
+Welcome to the first edition of the SIGTURK Workshop, as part of ACL 2024, focusing on the computational linguistics of Turkic languages. This workshop aims to bring together researchers and practitioners in the field to discuss, share, and advance the state-of-the-art in this subject of interest.
+
+== Important Dates
+
+[options="header"]
+|===
+| Event | Date
+| Workshop Paper Submission Deadline | TBA
+| Notification of Acceptance | TBA
+| Camera-ready Papers Due | TBA
+| Workshop Dates | TBA
+| Main Conference Dates | TBA
+|===
+
+Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
+
+== Contact Information
+
+* Email: ....
+* Submission Portal: ...
+* Official Website: https://sigturk.github.io/workshop
+
+== Organizing Committee
+
+* ...
+
+== Invited Speakers
+
+* ...
+
+== Program Committee
+
+* ...
+
+== Topics of Interest
+
+We welcome submissions on, but not limited to, the following topics:
+
+* Computational linguistics of Turkic languages
+* Evaluation of NLP methods for Turkic languages
+* Building Turkic language NLP systems
+* Metrics and measures for Turkic languages NLP
+* Learning from small or sparse data in Turkic languages
+* Datasets, benchmarks, and software for Turkic languages
+
+== Submissions Guidelines
+
+* Long Papers: Up to 8 pages, excluding references. An additional page is allowed for camera-ready versions. 
+* Extended Abstracts: Up to 2 pages, excluding bibliography. Ideal for ongoing or preliminary research.
+* Submissions should be made through our online submission system.
+
+== Awards and Scholarships
+
+* Best Paper Award with a monetary prize.
+* Scholarships for students requiring financial support to participate.
+
+== Sponsors
+
+* ...
+
+== Diversity and Inclusion Statement
+
+We are committed to promoting diversity and inclusion within our community. Part of our sponsorship funds are allocated to support participation from under-represented groups.
+
+== Workshop Format
+
+The workshop will be conducted in a hybrid format, offering both in-person and virtual participation options.
+
+== Venue
+
+The workshop will be held in Bangkok, with detailed venue information to be announced.
+
+== Registration
+
+Details regarding registration will be available on our website closer to the event.
+
+== More Information
+
+For further details and updates, please visit our workshop website: https://sigturk.github.io/workshop
+
+
