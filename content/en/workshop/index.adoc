@@ -1,0 +1,8 @@
+---
+title: "Workshop"
+description: "ACL Special Interest Group on Turkic Languages Workshop 2024"
+draft: false
+images: []
+contributors: []
+---
+
