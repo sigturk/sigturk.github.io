@@ -9,7 +9,7 @@ contributors: []
 
 :toc:
 
-https://sigturk.github.io/assets/pdf/SIGTURK_Constitution.pdf[PDF version]
+https://sigturk.com/assets/pdf/SIGTURK_Constitution.pdf[PDF version]
 
 == I. TURKIC LANGUAGES
 

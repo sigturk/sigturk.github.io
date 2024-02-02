@@ -30,7 +30,7 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
 * Email: ....
 * Submission Portal: ...
-* Official Website: https://sigturk.github.io/workshop
+* Official Website: https://sigturk.com/workshop
 
 == Organizing Committee
 
@@ -88,6 +88,6 @@ Details regarding registration will be available on our website closer to the ev
 
 == More Information
 
-For further details and updates, please visit our workshop website: https://sigturk.github.io/workshop
+For further details and updates, please visit our workshop website: https://sigturk.com/workshop
 
 

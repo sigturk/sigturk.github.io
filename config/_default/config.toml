@@ -1,4 +1,4 @@
-baseurl = "https://sigturk.github.io/"
+baseurl = "https://sigturk.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
