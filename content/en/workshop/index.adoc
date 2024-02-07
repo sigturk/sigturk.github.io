@@ -102,7 +102,7 @@ Our research paper track will accept submissions through our own submission syst
 
 Besides long paper submissions, we also invite previously published or ongoing and incomplete research contributions to our non-archival extended abstract track. All extended abstracts can use the same EMNLP template with a 2-page limit, excluding the bibliography. Extended abstracts can be submitted to the workshop submission system using the link: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
 
-== Awards and Scholarships
+== Awards
 
 A best paper award and winners of the shared task will be presented at the workshop and will be announced on our website.
 
