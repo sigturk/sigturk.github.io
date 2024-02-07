@@ -25,7 +25,7 @@ By supporting collaborations across research groups working on machine learning,
 |===
 | Event | Date
 | First call for papers | February 7, 2024 (Wednesday)
-| Secodn call for papers | March 4, 2024 (Monday)
+| Second call for papers | March 4, 2024 (Monday)
 | Workshop Paper Submission Deadline | May 31, 2024 (Friday)
 | Notification of Acceptance | June 17, 2024 (Monday)
 | Camera-ready Papers Due | July 1, 2024 (Monday)
