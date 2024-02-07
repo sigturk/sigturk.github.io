@@ -10,14 +10,28 @@ contributors: []
 
 == Introduction
 
-We present the first edition of the SIGTURK Workshop representing the annual meeting of the ACL Special Interest Group on Turkic Languages, which aims to provide a new venue that will promote studies on computational linguistics in Turkic languages. Our main objective is to bring together an interdisciplinary community of researchers working on different aspects of natural language processing (NLP) models and corpora in Turkic languages, providing the recently growing number of researchers working on the topic with a means of communication and an opportunity to present their work and exchange ideas. The main objectives of the workshop are:
-To construct and present a wide array of methodology and know-how, including foundational work for formulation and analysis of NLP models suitable for Turkic language processing;
-* To provide a better understanding on how Turkic language typology may impact the applicability of current methods and motivate the development of novel methods that are more generic or competitive in Turkic languages;
-* Preparation of new corpora and resources in under-studied Turkic languages;
-* To build infrastructure by means of software libraries and benchmarks for developing NLP models that would accelerate progress in the field;
+We present the first edition of the SIGTURK Workshop representing the annual
+meeting of the ACL Special Interest Group on Turkic Languages, which aims to
+provide a new venue that will promote studies on computational linguistics in
+Turkic languages. Our main objective is to bring together an interdisciplinary
+community of researchers working on different aspects of natural language
+processing (NLP) models and corpora in Turkic languages, providing the recently
+growing number of researchers working on the topic with a means of
+communication and an opportunity to present their work and exchange ideas.
+
+The main objectives of the workshop are:
+
+* To construct and present a wide array of methodology and know-how, including foundational work for formulation and analysis of NLP models suitable for Turkic language processing.
+* To provide a better understanding on how Turkic language typology may impact the applicability of current methods and motivate the development of novel methods that are more generic or competitive in Turkic languages
+* Preparation of new corpora and resources in under-studied Turkic languages
+* To build infrastructure by means of software libraries and benchmarks for developing NLP models that would accelerate progress in the field
 * Promote collaborations across scientists from across the world that have specific interests in the study of computational linguistics in Turkic languages.
 
-By supporting collaborations across research groups working on machine learning, Turkic linguistics, and real-life applications of NLP tasks in various languages, the ultimate goal of the workshop is to enlarge connections across our community and allow rapid development of NLP methods and tools that are applicable to a wide range of Turkic languages.
+By supporting collaborations across research groups working on machine
+learning, Turkic linguistics, and real-life applications of NLP tasks in
+various languages, the ultimate goal of the workshop is to enlarge connections
+across our community and allow rapid development of NLP methods and tools that
+are applicable to a wide range of Turkic languages.
 
 == Important Dates
 
