@@ -33,6 +33,21 @@ various languages, the ultimate goal of the workshop is to enlarge connections
 across our community and allow rapid development of NLP methods and tools that
 are applicable to a wide range of Turkic languages.
 
+== Topics of interest
+
+We welcome submissions on, but not limited to, the following topics:
+
+* Computational linguistics: models of all aspects of linguistics in Turkic languages (e.g., semantics, syntax, lexicon, morphology)
+* Systems: Case studies on the construction of NLP systems for Turkic languages
+* Evaluation: Understanding the applicability of current NLP methods in Turkic languages
+* Metrics: New metrics and measures for evaluating NLP systems suitable to Turkic languages
+* Learning from sparse data: Novel methods for learning from small or sparse data in Turkic languages
+* Resources: Datasets, benchmarks, and software libraries for NLP models in Turkic languages
+
+== Invited speakers
+
+* Kemal Oflazer, CMU
+
 == Important dates
 
 [options="header"]
@@ -54,6 +69,44 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 * Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
 * Official Website: https://sigturk.com/workshop
 
+== Submission guidelines
+
+=== Research papers
+
+We invite all potential participants to submit their novel research contributions in the related fields as long papers following the ACL 2024 long paper format (anonymized with 8 pages excluding the references, and an additional page for the camera-ready versions for the accepted papers). All accepted research papers will be published as part of our workshop proceedings and will be presented either through oral presentations or poster sessions.
+Our research paper track will accept submissions through our own submission system available at https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
+
+=== Extended abstracts
+
+Besides long paper submissions, we also invite previously published or ongoing and incomplete research contributions to our non-archival extended abstract track. All extended abstracts can use the same EMNLP template with a 2-page limit, excluding the bibliography. Extended abstracts can be submitted to the workshop submission system using the link: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
+
+== "Hack Together" event
+
+In addition to the workshop itself, the second day will be devoted to a full-day collaborative programming event "Hack Together".
+Our goal is to demonstrate the SIGTURK NLP library and interested parties can contribute to the integration of new NLP methods and models into the SIGTURK pipeline.
+The SIGTURK infrastructure can be found at https://github.com/sigturk.
+Findings of the event will be combined into a system demonstration paper.
+
+== Awards
+
+A best paper award and winners of the shared task will be presented at the workshop and will be announced on our website.
+
+== Diversity and inclusion statement
+
+We are committed to promoting diversity and inclusion within our community. Part of our sponsorship funds are allocated to support participation from under-represented groups.
+
+== Workshop format
+
+The workshop will be conducted in a hybrid format, offering both in-person and virtual participation options.
+
+== Venue
+
+The workshop will be held in Bangkok, Thailand. Future details TBA.
+
+== Registration
+
+Details regarding registration will be available on our website closer to the event.
+
 == Organizing committee
 
 * Duygu Ataman
@@ -61,10 +114,6 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 * Mehmet Oguz Derin
 * Sardana Ivanova
 * Jonne Sälevä
-
-== Invited speakers
-
-* Kemal Oflazer, CMU
 
 == Program committee
 
@@ -89,55 +138,6 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 * Gözde Gül Şahin, Koç University
 * Francis Tyers, Indiana University
 * Jonathan Washington, Swarthmore College
-
-== Topics of interest
-
-We welcome submissions on, but not limited to, the following topics:
-
-* Computational linguistics: models of all aspects of linguistics in Turkic languages (e.g., semantics, syntax, lexicon, morphology)
-* Systems: Case studies on the construction of NLP systems for Turkic languages
-* Evaluation: Understanding the applicability of current NLP methods in Turkic languages
-* Metrics: New metrics and measures for evaluating NLP systems suitable to Turkic languages
-* Learning from sparse data: Novel methods for learning from small or sparse data in Turkic languages
-* Resources: Datasets, benchmarks, and software libraries for NLP models in Turkic languages
-
-== "Hack Together" event
-
-In addition to the workshop itself, the second day will be devoted to a full-day collaborative programming event "Hack Together".
-Our goal is to demonstrate the SIGTURK NLP library and interested parties can contribute to the integration of new NLP methods and models into the SIGTURK pipeline.
-The SIGTURK infrastructure can be found at https://github.com/sigturk.
-Findings of the event will be combined into a system demonstration paper.
-
-== Submission guidelines
-
-=== Research papers
-
-We invite all potential participants to submit their novel research contributions in the related fields as long papers following the ACL 2024 long paper format (anonymized with 8 pages excluding the references, and an additional page for the camera-ready versions for the accepted papers). All accepted research papers will be published as part of our workshop proceedings and will be presented either through oral presentations or poster sessions.
-Our research paper track will accept submissions through our own submission system available at https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
-
-=== Extended abstracts
-
-Besides long paper submissions, we also invite previously published or ongoing and incomplete research contributions to our non-archival extended abstract track. All extended abstracts can use the same EMNLP template with a 2-page limit, excluding the bibliography. Extended abstracts can be submitted to the workshop submission system using the link: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
-
-== Awards
-
-A best paper award and winners of the shared task will be presented at the workshop and will be announced on our website.
-
-== Diversity and inclusion statement
-
-We are committed to promoting diversity and inclusion within our community. Part of our sponsorship funds are allocated to support participation from under-represented groups.
-
-== Workshop format
-
-The workshop will be conducted in a hybrid format, offering both in-person and virtual participation options.
-
-== Venue
-
-The workshop will be held in Bangkok, Thailand. Future details TBA.
-
-== Registration
-
-Details regarding registration will be available on our website closer to the event.
 
 == More information
 
