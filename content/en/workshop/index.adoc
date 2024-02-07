@@ -33,7 +33,7 @@ various languages, the ultimate goal of the workshop is to enlarge connections
 across our community and allow rapid development of NLP methods and tools that
 are applicable to a wide range of Turkic languages.
 
-== Important Dates
+== Important dates
 
 [options="header"]
 |===
@@ -48,13 +48,13 @@ are applicable to a wide range of Turkic languages.
 
 Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
-== Contact Information
+== Contact information
 
 * Email: sigturk.secretary@gmail.com (TODO: change)
 * Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
 * Official Website: https://sigturk.com/workshop
 
-== Organizing Committee
+== Organizing committee
 
 * Duygu Ataman
 * Deniz Zeyrek Bozşahin
@@ -62,11 +62,11 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 * Sardana Ivanova
 * Jonne Sälevä
 
-== Invited Speakers
+== Invited speakers
 
 * Kemal Oflazer, CMU
 
-== Program Committee
+== Program committee
 
 * Askar Aituov, Google
 * Necva Bölücü, CSIRO
@@ -90,7 +90,7 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 * Francis Tyers, Indiana University
 * Jonathan Washington, Swarthmore College
 
-== Topics of Interest
+== Topics of interest
 
 We welcome submissions on, but not limited to, the following topics:
 
@@ -108,7 +108,7 @@ Our goal is to demonstrate the SIGTURK NLP library and interested parties can co
 The SIGTURK infrastructure can be found at https://github.com/sigturk.
 Findings of the event will be combined into a system demonstration paper.
 
-== Submission Guidelines
+== Submission guidelines
 
 === Research papers
 
@@ -123,11 +123,11 @@ Besides long paper submissions, we also invite previously published or ongoing a
 
 A best paper award and winners of the shared task will be presented at the workshop and will be announced on our website.
 
-== Diversity and Inclusion Statement
+== Diversity and inclusion statement
 
 We are committed to promoting diversity and inclusion within our community. Part of our sponsorship funds are allocated to support participation from under-represented groups.
 
-== Workshop Format
+== Workshop format
 
 The workshop will be conducted in a hybrid format, offering both in-person and virtual participation options.
 
@@ -139,6 +139,6 @@ The workshop will be held in Bangkok, Thailand. Future details TBA.
 
 Details regarding registration will be available on our website closer to the event.
 
-== More Information
+== More information
 
 For further details and updates, please visit our workshop website: https://sigturk.com/workshop
