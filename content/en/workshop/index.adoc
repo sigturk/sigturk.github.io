@@ -60,6 +60,7 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 * Deniz Zeyrek Bozşahin, Middle East Technical University
 * Mehmet Oguz Derin
 * Sardana Ivanova, University of Helsinki
+* Abdullatif Köksal, LMU Munich
 * Jonne Sälevä, Brandeis University
 
 == Invited speakers
