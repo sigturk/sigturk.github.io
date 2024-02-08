@@ -50,7 +50,7 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
 == Contact information
 
-* Email: sigturk.secretary@gmail.com (TODO: change)
+* Email: workshop@sigturk.com
 * Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
 * Official Website: https://sigturk.com/workshop
 
