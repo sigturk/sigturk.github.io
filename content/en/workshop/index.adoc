@@ -102,7 +102,7 @@ We welcome submissions on, but not limited to, the following topics:
 * Learning from sparse data: Novel methods for learning from small or sparse data in Turkic languages
 * Resources: Datasets, benchmarks, and software libraries for NLP models in Turkic languages
 
-== "Hack Together" event
+== "Hack Together" programming event
 
 In addition to the workshop itself, the second day will be devoted to a full-day collaborative programming event "Hack Together".
 Our goal is to demonstrate the SIGTURK NLP library and interested parties can contribute to the integration of new NLP methods and models into the SIGTURK pipeline.
