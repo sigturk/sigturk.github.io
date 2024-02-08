@@ -6,88 +6,140 @@ images: []
 contributors: []
 ---
 
-= First Workshop of SIGTURK, the ACL Special Interest Group on Turkic Languages
+= The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15-16 2024, Bangkok (Co-located with ACL)
 
 == Introduction
 
-Welcome to the first edition of the SIGTURK Workshop, as part of ACL 2024, focusing on the computational linguistics of Turkic languages. This workshop aims to bring together researchers and practitioners in the field to discuss, share, and advance the state-of-the-art in this subject of interest.
+We present the first edition of the SIGTURK Workshop representing the annual
+meeting of the ACL Special Interest Group on Turkic Languages, which aims to
+provide a new venue that will promote studies on computational linguistics in
+Turkic languages. Our main objective is to bring together an interdisciplinary
+community of researchers working on different aspects of natural language
+processing (NLP) models and corpora in Turkic languages, providing the recently
+growing number of researchers working on the topic with a means of
+communication and an opportunity to present their work and exchange ideas.
 
-== Important Dates
+The main objectives of the workshop are:
+
+* To construct and present a wide array of methodology and know-how, including foundational work for formulation and analysis of NLP models suitable for Turkic language processing.
+* To provide a better understanding on how Turkic language typology may impact the applicability of current methods and motivate the development of novel methods that are more generic or competitive in Turkic languages
+* Preparation of new corpora and resources in under-studied Turkic languages
+* To build infrastructure by means of software libraries and benchmarks for developing NLP models that would accelerate progress in the field
+* Promote collaborations across scientists from across the world that have specific interests in the study of computational linguistics in Turkic languages.
+
+By supporting collaborations across research groups working on machine
+learning, Turkic linguistics, and real-life applications of NLP tasks in
+various languages, the ultimate goal of the workshop is to enlarge connections
+across our community and allow rapid development of NLP methods and tools that
+are applicable to a wide range of Turkic languages.
+
+== Important dates
 
 [options="header"]
 |===
 | Event | Date
-| Workshop Paper Submission Deadline | TBA
-| Notification of Acceptance | TBA
-| Camera-ready Papers Due | TBA
-| Workshop Dates | TBA
-| Main Conference Dates | TBA
+| First call for papers | February 7, 2024 (Wednesday)
+| Second call for papers | March 4, 2024 (Monday)
+| Workshop Paper Submission Deadline | May 31, 2024 (Friday)
+| Notification of Acceptance | June 17, 2024 (Monday)
+| Camera-ready Papers Due | July 1, 2024 (Monday)
+| Workshop Dates | August 15-16, 2024 (Thursday-Friday)
 |===
 
 Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
-== Contact Information
+== Contact information
 
-* Email: ....
-* Submission Portal: ...
+* Email: workshop@sigturk.com
+* Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
 * Official Website: https://sigturk.com/workshop
 
-== Organizing Committee
+== Organizing committee
 
-* ...
+* Duygu Ataman, New York University
+* Deniz Zeyrek Bozşahin, Middle East Technical University
+* Mehmet Oguz Derin
+* Sardana Ivanova, University of Helsinki
+* Abdullatif Köksal, LMU Munich
+* Jonne Sälevä, Brandeis University
 
-== Invited Speakers
+== Invited speakers
 
-* ...
+* Kemal Oflazer, CMU
 
-== Program Committee
+== Program committee
 
-* ...
+* Askar Aituov, Google
+* Necva Bölücü, CSIRO
+* Çağrı Çöltekin, University of Tübingen
+* Ebru Ersöyleyen, Middle East Technical University
+* Orhan Fırat, Google Deepmind
+* Omer Goldman, Bar-Ilan University
+* Mammad Hajili, Microsoft
+* Rasul Karimov, Sharechat
+* Bekhzod Khoshimov, UW-Madison
+* Abdullatif Köksal, LMU Munich
+* Murathan Kurfalı, Stockholm University
+* Constantine Lignos, Brandeis University
+* Aziza Mirsaidova, Microsoft
+* Jamshidbek Mirzakhalov, Monic AI
+* Saliha Muradoğlu, Australian National University
+* Fırat Öter, Middle East Technical University
+* Arzucan Özgür, Bogaziçi University
+* Adnan Öztürel, Google
+* Gözde Gül Şahin, Koç University
+* Francis Tyers, Indiana University
+* Jonathan Washington, Swarthmore College
 
-== Topics of Interest
+== Topics of interest
 
 We welcome submissions on, but not limited to, the following topics:
 
-* Computational linguistics of Turkic languages
-* Evaluation of NLP methods for Turkic languages
-* Building Turkic language NLP systems
-* Metrics and measures for Turkic languages NLP
-* Learning from small or sparse data in Turkic languages
-* Datasets, benchmarks, and software for Turkic languages
+* Computational linguistics: models of all aspects of linguistics in Turkic languages (e.g., semantics, syntax, lexicon, morphology)
+* Systems: Case studies on the construction of NLP systems for Turkic languages
+* Evaluation: Understanding the applicability of current NLP methods in Turkic languages
+* Metrics: New metrics and measures for evaluating NLP systems suitable to Turkic languages
+* Learning from sparse data: Novel methods for learning from small or sparse data in Turkic languages
+* Resources: Datasets, benchmarks, and software libraries for NLP models in Turkic languages
 
-== Submissions Guidelines
+== "Hack Together" programming event
 
-* Long Papers: Up to 8 pages, excluding references. An additional page is allowed for camera-ready versions. 
-* Extended Abstracts: Up to 2 pages, excluding bibliography. Ideal for ongoing or preliminary research.
-* Submissions should be made through our online submission system.
+In addition to the workshop itself, the second day will be devoted to a full-day collaborative programming event "Hack Together".
+Our goal is to demonstrate the SIGTURK NLP library and interested parties can contribute to the integration of new NLP methods and models into the SIGTURK pipeline.
+The SIGTURK infrastructure can be found at https://github.com/sigturk.
+Findings of the event will be combined into a system demonstration paper.
 
-== Awards and Scholarships
+== Submission guidelines
 
-* Best Paper Award with a monetary prize.
-* Scholarships for students requiring financial support to participate.
+=== Research papers
 
-== Sponsors
+We invite all potential participants to submit their novel research contributions in the related fields as long papers following the ACL 2024 long paper format (anonymized with 8 pages excluding the references, and an additional page for the camera-ready versions for the accepted papers). All accepted research papers will be published as part of our workshop proceedings and will be presented either through oral presentations or poster sessions.
+Our research paper track will accept submissions through our own submission system available at https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
 
-* ...
+=== Extended abstracts
 
-== Diversity and Inclusion Statement
+Besides long paper submissions, we also invite previously published or ongoing and incomplete research contributions to our non-archival extended abstract track. All extended abstracts can use the same EMNLP template with a 2-page limit, excluding the bibliography. Extended abstracts can be submitted to the workshop submission system using the link: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
+
+== Awards
+
+A best paper award and winners of the shared task will be presented at the workshop and will be announced on our website.
+
+== Diversity and inclusion statement
 
 We are committed to promoting diversity and inclusion within our community. Part of our sponsorship funds are allocated to support participation from under-represented groups.
 
-== Workshop Format
+== Workshop format
 
 The workshop will be conducted in a hybrid format, offering both in-person and virtual participation options.
 
 == Venue
 
-The workshop will be held in Bangkok, with detailed venue information to be announced.
+The workshop will be held in Bangkok, Thailand. Future details TBA.
 
 == Registration
 
 Details regarding registration will be available on our website closer to the event.
 
-== More Information
+== More information
 
 For further details and updates, please visit our workshop website: https://sigturk.com/workshop
-
-
