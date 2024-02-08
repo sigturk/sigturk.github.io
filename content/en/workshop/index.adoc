@@ -56,11 +56,11 @@ Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
 == Organizing committee
 
-* Duygu Ataman
-* Deniz Zeyrek Bozşahin
+* Duygu Ataman, New York University
+* Deniz Zeyrek Bozşahin, Middle East Technical University
 * Mehmet Oguz Derin
-* Sardana Ivanova
-* Jonne Sälevä
+* Sardana Ivanova, University of Helsinki
+* Jonne Sälevä, Brandeis University
 
 == Invited speakers
 
