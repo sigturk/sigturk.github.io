@@ -38,7 +38,7 @@ are applicable to a wide range of Turkic languages.
 [options="header"]
 |===
 | Event | Date
-| First call for papers | February 7, 2024 (Wednesday)
+| First call for papers | February 9, 2024 (Friday)
 | Second call for papers | March 4, 2024 (Monday)
 | Workshop Paper Submission Deadline | May 31, 2024 (Friday)
 | Notification of Acceptance | June 17, 2024 (Monday)
