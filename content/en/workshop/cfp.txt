@@ -86,6 +86,7 @@ contribute to the integration of new NLP methods and models into the
 SIGTURK pipeline. The SIGTURK infrastructure can be found at
 https://github.com/sigturk. Findings of the event will be combined into
 a system demonstration paper.
+
 INVITED SPEAKERS
 Kemal Oflazer, Carnegie Mellon University
 
@@ -93,6 +94,7 @@ MORE INFORMATION
 
 For further details and updates, please visit our workshop website:
 https://sigturk.com/workshop
+
 ORGANIZERS
 Duygu Ataman, New York University
 Deniz Zeyrek Bozşahin, Middle East Technical University
