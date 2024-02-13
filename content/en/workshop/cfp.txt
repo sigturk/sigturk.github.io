@@ -20,51 +20,39 @@ TOPICS OF INTEREST
 
 We welcome submissions on, but not limited to, the following topics:
 
--   Computational linguistics: models of all aspects of linguistics in
+*   Computational linguistics: models of all aspects of linguistics in
     Turkic languages (e.g., semantics, syntax, lexicon, morphology)
 
--   Systems: Case studies on the construction of NLP systems for Turkic
+*   Systems: Case studies on the construction of NLP systems for Turkic
     languages
 
--   Evaluation: Understanding the applicability of current NLP methods
+*   Evaluation: Understanding the applicability of current NLP methods
     in Turkic languages
 
--   Metrics: New metrics and measures for evaluating NLP systems
+*   Metrics: New metrics and measures for evaluating NLP systems
     suitable to Turkic languages
 
--   Learning from sparse data: Novel methods for learning from small or
+*   Learning from sparse data: Novel methods for learning from small or
     sparse data in Turkic languages
 
--   Resources: Datasets, benchmarks, and software libraries for NLP
+*   Resources: Datasets, benchmarks, and software libraries for NLP
     models in Turkic languages
 
 IMPORTANT DATES
 
-+-----------------------------------+-----------------------------------+
-| Event                             | Date                              |
-+===================================+===================================+
-| First call for papers             | February 9, 2024 (Friday)         |
-+-----------------------------------+-----------------------------------+
-| Second call for papers            | March 4, 2024 (Monday)            |
-+-----------------------------------+-----------------------------------+
-| Workshop Paper Submission         | May 31, 2024 (Friday)             |
-| Deadline                          |                                   |
-+-----------------------------------+-----------------------------------+
-| Notification of Acceptance        | June 17, 2024 (Monday)            |
-+-----------------------------------+-----------------------------------+
-| Camera-ready Papers Due           | July 1, 2024 (Monday)             |
-+-----------------------------------+-----------------------------------+
-| Workshop Dates                    | August 15-16, 2024                |
-|                                   | (Thursday-Friday)                 |
-+-----------------------------------+-----------------------------------+
+*   First call for papers: February 9, 2024 (Friday)
+*   Paper submission deadline: May 31, 2024 (Friday)
+*   Notification of acceptance: June 16, 2024 (Monday)
+*   Camera-ready submission deadline: July 1, 2024 (Monday)
+*   Workshop dates: August 15-16 (Thursday - Friday)
 
 Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
 
 CONTACT INFORMATION
 
--   Email: workshop@sigturk.com
--   Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
--   Official Website: https://sigturk.com/workshop
+*   Email: workshop@sigturk.com
+*   Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
+*   Official Website: https://sigturk.com/workshop
 
 SUBMISSION GUIDELINES
 
@@ -92,14 +80,25 @@ link: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
 "HACK TOGETHER" PROGRAMMING EVENT
 
 In addition to the workshop itself, the second day will be devoted to a
-full-day collaborative programming event "Hack Together". Our goal is to
+full-day collaborative hybrid programming event "Hack Together". Our goal is to
 demonstrate the SIGTURK NLP library and interested parties can
 contribute to the integration of new NLP methods and models into the
 SIGTURK pipeline. The SIGTURK infrastructure can be found at
 https://github.com/sigturk. Findings of the event will be combined into
 a system demonstration paper.
 
+INVITED SPEAKERS
+Kemal Oflazer, Carnegie Mellon University
+
 MORE INFORMATION
 
 For further details and updates, please visit our workshop website:
 https://sigturk.com/workshop
+
+ORGANIZERS
+Duygu Ataman, New York University
+Deniz Zeyrek Bozşahin, Middle East Technical University
+Mehmet Oguz Derin
+Sardana Ivanova, University of Helsinki
+Abdullatif Köksal, LMU Munich
+Jonne Sälevä, Brandeis University
