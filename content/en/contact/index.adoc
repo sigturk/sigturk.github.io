@@ -5,4 +5,4 @@ draft: false
 images: []
 ---
 
-For more information, please mailto:sigturk.secretary@gmail.com[contact us].
+For more information, please email mailto:contact@sigturk.com[contact [at\] sigturk [dot\] com].
