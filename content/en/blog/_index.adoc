@@ -1,0 +1,7 @@
+---
+title: "Blog"
+description: "ACL Special Interest Group on Turkic Languages Blog"
+draft: false
+images: []
+contributors: []
+---

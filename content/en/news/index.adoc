@@ -1,0 +1,13 @@
+---
+title: "News"
+description: "ACL Special Interest Group on Turkic Languages News"
+draft: false
+images: []
+contributors: []
+---
+
+For announcement and news, please join our https://groups.google.com/a/sigturk.com/g/community-list[mailing list] or take a look at the archive at https://groups.google.com/a/sigturk.com/g/community-list-archive[archive].
+
+++++
+<a class="btn btn-primary btn-lg px-4 mb-2" href="https://groups.google.com/a/sigturk.com/g/community-list-archive" role="button">SIGTURK News Archive</a>
+++++

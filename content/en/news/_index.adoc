@@ -1,7 +1,0 @@
----
-title: "News"
-description: "ACL Special Interest Group on Turkic Languages News"
-draft: false
-images: []
-contributors: []
----

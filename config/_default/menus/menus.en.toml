@@ -19,9 +19,19 @@
   weight = 40
 
 [[main]]
+  name = "Calendar"
+  url = "/calendar/"
+  weight = 45
+
+[[main]]
   name = "News"
   url = "/news/"
   weight = 50
+
+[[main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 55
 
 [[main]]
   name = "Projects"

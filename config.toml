@@ -1,4 +1,5 @@
 baseURL = "https://sigturk.com/"
+# relativeURLs = true
 languageCode = "en"
 title = "SIGTURK"
 
