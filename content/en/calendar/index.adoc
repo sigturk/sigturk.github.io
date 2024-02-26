@@ -1,0 +1,13 @@
+---
+title: "Calendar"
+description: "ACL Special Interest Group on Turkic Languages Calendar"
+draft: false
+images: []
+contributors: []
+---
+
+For announcement and news, please join our https://groups.google.com/a/sigturk.com/g/community-list[mailing list] or take a look at the archive at https://groups.google.com/a/sigturk.com/g/community-list-archive[archive].
+
+++++
+<iframe src="https://calendar.google.com/calendar/embed?src=c_af3eac679f8e726107a2815e8ea673a442f424770c9c3ac57d4595a889ad8043%40group.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+++++
