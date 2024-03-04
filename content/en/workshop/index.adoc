@@ -126,7 +126,7 @@ A best paper award and winners of the shared task will be presented at the works
 
 == Diversity and inclusion statement
 
-We are committed to promoting diversity and inclusion within our community. Part of our sponsorship funds are allocated to support participation from under-represented groups.
+We are committed to promoting diversity and inclusion within our community.
 
 == Workshop format
 
