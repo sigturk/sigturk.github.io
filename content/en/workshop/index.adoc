@@ -1,5 +1,5 @@
 ---
-title: "The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15-16 2024, Bangkok (Co-located with ACL)"
+title: "Workshop"
 description: "ACL Special Interest Group on Turkic Languages Workshop 2024"
 draft: false
 toc: true
@@ -9,16 +9,18 @@ contributors: []
 
 :toc:
 
+= The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15-16 2024, Bangkok (Co-located with ACL)
+
 = Introduction
 
-We present the first edition of the SIGTURK Workshop representing the annual
-meeting of the ACL Special Interest Group on Turkic Languages, which aims to
-provide a new venue that will promote studies on computational linguistics in
-Turkic languages. Our main objective is to bring together an interdisciplinary
-community of researchers working on different aspects of natural language
-processing (NLP) models and corpora in Turkic languages, providing the recently
-growing number of researchers working on the topic with a means of
-communication and an opportunity to present their work and exchange ideas.
+We are excited to announce the First Annual Meeting of the ACL Special Interest
+Group on Turkic Languages, held  in conjunction with Annual Meeting of the
+Association for Computational Linguistics in Bangkok, Thailand.  Our primary
+aim is to provide a new venue to foster research on computational linguistics
+in Turkic languages.  By co-locating with ACL, we seek to facilitate
+interaction among researchers from diverse backgrounds, encouraging the
+exchange of ideas and the presentation of cutting-edge work in natural language
+processing (NLP) specific to Turkic languages.
 
 The main objectives of the workshop are:
 
