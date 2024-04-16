@@ -9,9 +9,7 @@ contributors: []
 
 :toc:
 
-= The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15-16 2024, Bangkok (Co-located with ACL)
-
-== Introduction
+= Introduction
 
 We present the first edition of the SIGTURK Workshop representing the annual
 meeting of the ACL Special Interest Group on Turkic Languages, which aims to
