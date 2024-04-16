@@ -14,8 +14,8 @@ contributors: []
 = Introduction
 
 We are excited to announce the First Annual Meeting of the ACL Special Interest
-Group on Turkic Languages, held  in conjunction with Annual Meeting of the
-Association for Computational Linguistics in Bangkok, Thailand.  Our primary
+Group on Turkic Languages, held  in conjunction with https://2024.aclweb.org/[Annual Meeting of the
+Association for Computational Linguistics] in Bangkok, Thailand.  Our primary
 aim is to provide a new venue to foster research on computational linguistics
 in Turkic languages.  By co-locating with ACL, we seek to facilitate
 interaction among researchers from diverse backgrounds, encouraging the
