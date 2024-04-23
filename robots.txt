@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sigturk.com/sitemap.xml
+Sitemap: https://sigturk.github.io/sitemap.xml
