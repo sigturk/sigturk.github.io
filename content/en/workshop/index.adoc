@@ -106,7 +106,7 @@ The workshop will be held in Bangkok, Thailand. Future details TBA.
 
 == Program committee
 
-* Askar Aituov, Google
+* Askar Aituov, Google for Developers
 * Necva Bölücü, CSIRO
 * Çağrı Çöltekin, University of Tübingen
 * Ebru Ersöyleyen, Middle East Technical University
