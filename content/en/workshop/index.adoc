@@ -41,9 +41,10 @@ are applicable to a wide range of Turkic languages.
 [options="header"]
 |===
 | Event | Date
-| First call for papers | February 9, 2024 (Friday)
-| Second call for papers | March 4, 2024 (Monday)
-| Workshop Paper Submission Deadline | May 31, 2024 (Friday)
+| First Call for Papers | February 9, 2024 (Friday)
+| Second Call for Papers | March 4, 2024 (Monday)
+| Announcement of Deadline Extension | May 31, 2024 (Monday)
+| Workshop Paper Submission Deadline | June 7, 2024 (Friday)
 | Notification of Acceptance | June 17, 2024 (Monday)
 | Camera-ready Papers Due | July 1, 2024 (Monday)
 | Workshop Dates | August 15-16, 2024 (Thursday-Friday)
