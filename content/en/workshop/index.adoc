@@ -25,7 +25,7 @@ processing (NLP) specific to Turkic languages.
 The main objectives of the workshop are:
 
 * To construct and present a wide array of methodology and know-how, including foundational work for formulation and analysis of NLP models suitable for Turkic language processing.
-* To provide a better understanding on how Turkic language typology may impact the applicability of current methods and motivate the development of novel methods that are more generic or competitive in Turkic languages
+* To provide a better understanding of how Turkic language typology may impact the applicability of current methods and motivate the development of novel methods that are more generic or competitive in Turkic languages
 * Preparation of new corpora and resources in under-studied Turkic languages
 * To build infrastructure by means of software libraries and benchmarks for developing NLP models that would accelerate progress in the field
 * Promote collaborations across scientists from across the world that have specific interests in the study of computational linguistics in Turkic languages.
@@ -38,12 +38,13 @@ are applicable to a wide range of Turkic languages.
 
 == Important dates
 
-[options="header"]
+[options= "header"]
 |===
 | Event | Date
-| First call for papers | February 9, 2024 (Friday)
-| Second call for papers | March 4, 2024 (Monday)
-| Workshop Paper Submission Deadline | May 31, 2024 (Friday)
+| First Call for Papers | February 9, 2024 (Friday)
+| Second Call for Papers | March 4, 2024 (Monday)
+| Announcement of Deadline Extension | May 31, 2024 (Monday)
+| Workshop Paper Submission Deadline | June 7, 2024 (Friday)
 | Notification of Acceptance | June 17, 2024 (Monday)
 | Camera-ready Papers Due | July 1, 2024 (Monday)
 | Workshop Dates | August 15-16, 2024 (Thursday-Friday)
@@ -60,14 +61,14 @@ We welcome submissions on, but not limited to, the following topics:
 * Learning from sparse data: Novel methods for learning from small or sparse data in Turkic languages
 * Resources: Datasets, benchmarks, and software libraries for NLP models in Turkic languages
 
-Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
+Note: All deadlines are 11:59 pm UTC -12h ("anywhere on Earth").
 
 == "Hack Together" programming event
 
-In addition to the workshop itself, the second day will be devoted to a full-day collaborative programming event "Hack Together".
-Our goal is to demonstrate the SIGTURK NLP library and interested parties can contribute to the integration of new NLP methods and models into the SIGTURK pipeline.
+In addition to the workshop itself, the second day will contain presentations and collaborative events with a particular focus on coding guidelines and practices for behavior-memory safety and test-driven development.
+Our goal is to demonstrate the upbringing of the SIGTURK NLP library, and interested parties can contribute to the integration of new NLP methods and models or their building blocks into the SIGTURK pipeline.
 The SIGTURK infrastructure can be found at https://github.com/sigturk.
-Findings of the event will be combined into a system demonstration paper.
+The findings of the event might be combined into a system demonstration paper.
 
 == Submission guidelines
 
@@ -102,7 +103,7 @@ Details regarding registration will be available on our website closer to the ev
 
 == Venue
 
-The workshop will be held in Bangkok, Thailand. Future details TBA.
+The workshop will be held at Centara Grand and Bangkok Convention Centre in Bangkok, Thailand. Further details TBA.
 
 == Program committee
 
