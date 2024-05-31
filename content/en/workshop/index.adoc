@@ -19,7 +19,7 @@ Association for Computational Linguistics] in Bangkok, Thailand.  Our primary
 aim is to provide a new venue to foster research on computational linguistics
 in Turkic languages.  By co-locating with ACL, we seek to facilitate
 interaction among researchers from diverse backgrounds, encouraging the
-exchange of ideas and presenting cutting-edge work in natural language
+exchange of ideas and the presentation of cutting-edge work in natural language
 processing (NLP) specific to Turkic languages.
 
 The main objectives of the workshop are:
@@ -87,7 +87,7 @@ Besides long paper submissions, we also invite previously published or ongoing a
 
 == Awards
 
-The best paper award will be presented at the workshop and will be announced on our website.
+A best paper award will be presented at the workshop and will be announced on our website.
 
 == Diversity and inclusion statement
 
