@@ -44,8 +44,8 @@ are applicable to a wide range of Turkic languages.
 | First Call for Papers | February 9, 2024 (Friday)
 | Second Call for Papers | March 4, 2024 (Monday)
 | Announcement of Deadline Extension | May 31, 2024 (Monday)
-| Workshop Paper Submission Deadline | June 7, 2024 (Friday)
-| Notification of Acceptance | June 17, 2024 (Monday)
+| Workshop Paper Submission Deadline | June 18, 2024 (Tuesday)
+| Notification of Acceptance | June 24, 2024 (Monday)
 | Camera-ready Papers Due | July 1, 2024 (Monday)
 | Workshop Dates | August 15-16, 2024 (Thursday-Friday)
 |===
@@ -61,7 +61,7 @@ We welcome submissions on, but not limited to, the following topics:
 * Learning from sparse data: Novel methods for learning from small or sparse data in Turkic languages
 * Resources: Datasets, benchmarks, and software libraries for NLP models in Turkic languages
 
-Note: All deadlines are 11:59 pm UTC -12h ("anywhere on Earth").
+Note: All deadlines are 23:59 GMT (same as UTC-0).
 
 == "Hack Together" programming event
 
