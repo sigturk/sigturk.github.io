@@ -137,7 +137,7 @@ The workshop will be held at Centara Grand and Bangkok Convention Centre in Bang
 
 * Email: sigturk2024workshop@gmail.com
 * Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
-* Official Website: https://sigturk.com/workshop
+* Official Website: https://sigturk.github.io/workshop
 
 == More information
 
