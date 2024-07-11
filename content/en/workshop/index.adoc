@@ -9,7 +9,7 @@ contributors: []
 
 :toc:
 
-= The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15-16 2024, Bangkok (Co-located with ACL)
+= The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15 2024, Bangkok (Co-located with ACL)
 
 == Introduction
 
@@ -47,7 +47,7 @@ are applicable to a wide range of Turkic languages.
 | Workshop Paper Submission Deadline | June 18, 2024 (Tuesday)
 | Notification of Acceptance | June 24, 2024 (Monday)
 | Camera-ready Papers Due | July 1, 2024 (Monday)
-| Workshop Dates | August 15-16, 2024 (Thursday-Friday)
+| Workshop Date | August 15, 2024 (Thursday)
 |===
 
 == Topics of interest
