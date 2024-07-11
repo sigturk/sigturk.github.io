@@ -63,13 +63,6 @@ We welcome submissions on, but not limited to, the following topics:
 
 Note: All deadlines are 23:59 GMT (same as UTC-0).
 
-== "Hack Together" programming event
-
-In addition to the workshop itself, the second day will contain presentations and collaborative events with a particular focus on coding guidelines and practices for behavior-memory safety and test-driven development.
-Our goal is to demonstrate the upbringing of the SIGTURK NLP library, and interested parties can contribute to the integration of new NLP methods and models or their building blocks into the SIGTURK pipeline.
-The SIGTURK infrastructure can be found at https://github.com/sigturk.
-The findings of the event might be combined into a system demonstration paper.
-
 == Submission guidelines
 
 === Research papers
