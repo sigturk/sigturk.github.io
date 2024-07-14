@@ -1,6 +1,6 @@
 ---
 title: "Workshop"
-description: "ACL Special Interest Group on Turkic Languages Workshop 2024"
+description: "The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024)"
 draft: false
 toc: true
 images: []
@@ -9,7 +9,7 @@ contributors: []
 
 :toc:
 
-= The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15 2024, Bangkok (Co-located with ACL)
+= The The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024) August 15 2024, Bangkok (Co-located with ACL)
 
 == Introduction
 
