@@ -79,6 +79,7 @@ Besides long paper submissions, we also invite previously published or ongoing a
 * Kemal Oflazer, CMU
 * Gözde Gül Şahin, Koç University
 * Elmurod Kuriyozov
+* Sardana Ivanova
 
 == Awards
 
