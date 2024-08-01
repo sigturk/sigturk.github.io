@@ -1,6 +1,6 @@
 ---
 title: "Workshop"
-description: "ACL Special Interest Group on Turkic Languages Workshop 2024"
+description: "The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024)"
 draft: false
 toc: true
 images: []
@@ -9,7 +9,7 @@ contributors: []
 
 :toc:
 
-= The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK) August 15-16 2024, Bangkok (Co-located with ACL)
+= The The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024) August 15 2024, Bangkok (Co-located with ACL)
 
 == Introduction
 
@@ -47,7 +47,7 @@ are applicable to a wide range of Turkic languages.
 | Workshop Paper Submission Deadline | June 18, 2024 (Tuesday)
 | Notification of Acceptance | June 24, 2024 (Monday)
 | Camera-ready Papers Due | July 1, 2024 (Monday)
-| Workshop Dates | August 15-16, 2024 (Thursday-Friday)
+| Workshop Date | August 15, 2024 (Thursday)
 |===
 
 == Topics of interest
@@ -63,13 +63,6 @@ We welcome submissions on, but not limited to, the following topics:
 
 Note: All deadlines are 23:59 GMT (same as UTC-0).
 
-== "Hack Together" programming event
-
-In addition to the workshop itself, the second day will contain presentations and collaborative events with a particular focus on coding guidelines and practices for behavior-memory safety and test-driven development.
-Our goal is to demonstrate the upbringing of the SIGTURK NLP library, and interested parties can contribute to the integration of new NLP methods and models or their building blocks into the SIGTURK pipeline.
-The SIGTURK infrastructure can be found at https://github.com/sigturk.
-The findings of the event might be combined into a system demonstration paper.
-
 == Submission guidelines
 
 === Research papers
@@ -84,6 +77,9 @@ Besides long paper submissions, we also invite previously published or ongoing a
 == Invited speakers
 
 * Kemal Oflazer, CMU
+* Gözde Gül Şahin, Koç University
+* Elmurod Kuriyozov
+* Sardana Ivanova
 
 == Awards
 
@@ -142,7 +138,7 @@ The workshop will be held at Centara Grand and Bangkok Convention Centre in Bang
 
 * Email: sigturk2024workshop@gmail.com
 * Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
-* Official Website: https://sigturk.com/workshop
+* Official Website: https://sigturk.github.io/workshop
 
 == More information
 
