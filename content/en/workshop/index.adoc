@@ -104,6 +104,7 @@ Jafar Isbarov, Kavsar Huseynova, SAMIR RUSTAMOV
 | 		| TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation. Gökçe Uludoğan, Zeynep Yirmibeşoğlu Balal, Furkan Akkurt, Melikşah Türker, Onur Güngör, Susan Üsküdarlı
 | 17:00-17:40		| Invited talk: Kerem Lutfi Senel
 | 17:40-17:50		| Closing
+|===
 
 == Awards
 
