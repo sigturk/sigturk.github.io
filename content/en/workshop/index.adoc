@@ -63,35 +63,13 @@ We welcome submissions on, but not limited to, the following topics:
 
 Note: All deadlines are 23:59 GMT (same as UTC-0).
 
-== "Hack Together" programming event
-
-In addition to the workshop itself, the second day will contain presentations and collaborative events with a particular focus on coding guidelines and practices for behavior-memory safety and test-driven development.
-Our goal is to demonstrate the upbringing of the SIGTURK NLP library, and interested parties can contribute to the integration of new NLP methods and models or their building blocks into the SIGTURK pipeline.
-The SIGTURK infrastructure can be found at https://github.com/sigturk.
-The findings of the event might be combined into a system demonstration paper.
-
-== Submission guidelines
-
-=== Research papers
-
-We invite all potential participants to submit their novel research contributions in the related fields as long papers following the ACL 2024 long paper format (anonymized with 8 pages excluding the references, and an additional page for the camera-ready versions for the accepted papers). All accepted research papers will be published as part of our workshop proceedings and will be presented either through oral presentations or poster sessions.
-Our research paper track will accept submissions through our own submission system available at https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
-
-=== Extended abstracts
-
-Besides long paper submissions, we also invite previously published or ongoing and incomplete research contributions to our non-archival extended abstract track. All extended abstracts can use the same EMNLP template with a 2-page limit, excluding the bibliography. Extended abstracts can be submitted to the workshop submission system using the link: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
 
 == Invited speakers
 
-* Kemal Oflazer, CMU
-
-== Awards
-
-A best paper award will be presented at the workshop and will be announced on our website.
-
-== Diversity and inclusion statement
-
-We are committed to promoting diversity and inclusion within our community.
+* Kemal Oflazer, Carnegie Mellon University
+* Gözde Gül Sahin, Koc University
+* Elmurod Kuriyozov, University of A Coruña
+* Lütfi Kerem Senel, Ludwig Maximillian University of Munich
 
 == Workshop format
 
@@ -99,7 +77,7 @@ The workshop will be conducted in a hybrid format, with both an in-person compon
 
 == Registration
 
-Details regarding registration will be available on our website closer to the event.
+Details regarding registration can be found on the conference website.
 
 == Venue
 
