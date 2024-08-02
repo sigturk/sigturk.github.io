@@ -65,7 +65,7 @@ Note: All deadlines are 23:59 GMT (same as UTC-0).
 
 == Invited speakers
 
-* Kemal Oflazer, CMU
+* Kemal Oflazer, Carnegie Mellon University
 * Gözde Gül Şahin, Koç University
 * Elmurod Kuriyozov, University of A Coruña
 * Lütfi Kerem Senel, Ludwig Maximillian University of Munich
@@ -76,8 +76,8 @@ Note: All deadlines are 23:59 GMT (same as UTC-0).
 |===
 | Time |
 | 09:00 - 09:10	| Opening remarks
-| 09:10-09:50	| Invited talk: Kemal Oflazer
-| 09:50-10:30	| 	Invited speech: Gözde Gül Şahin
+| 09:10-09:50	| Invited talk by Kemal Oflazer
+| 09:50-10:30	| 	Invited talk by Gözde Gül Şahin
 | 10:30 - 11:00		| Coffee break
 | 11:00 - 12:30		| Oral session 1:
 | 11:00-11:15		| Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models.	Akylbek Maxutov, Ayan Myrzakhmet, Pavel Braslavski
@@ -91,7 +91,7 @@ Note: All deadlines are 23:59 GMT (same as UTC-0).
 | 13:50-14:05		| Do LLMs Recognize me, When I is not me: Assessment of LLMs Understanding of Turkish Indexical Pronouns in Indexical Shift Context. Metehan Oğuz, Yusuf Umut Ciftci, Yavuz Faruk Bakman
 | 14:10-14:25		| Turkish Delights: a Dataset on Turkish Euphemisms. Hasan Can Biyik, Patrick Lee, Anna Feldman
 | 14:30-14:45		| Towards a Clean Text Corpus for Ottoman Turkish. Fatih Burak Karagöz, Berat Doğan, Şaziye Betül Özateş
-| 14:50-15:30		| Invited speech: Elmurod Kuriyozov
+| 14:50-15:30		| Invited talk by Elmurod Kuriyozov
 | 15:30 - 16:00		| Coffee break
 | 16:00-17:00		| Poster session (non-archival and Findings papers)
 | 		| Robust Automated Spelling Correction with Deep Ensembles
@@ -102,7 +102,7 @@ Jafar Isbarov, Kavsar Huseynova, SAMIR RUSTAMOV
 | 		| Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking. Emre Can Acikgoz, Mete Erdogan, Deniz Yuret
 | 		| Phonotactics as an Aid in Low Resource Loan Word Detection and Morphological Analysis in Sakha. Petter Mæhlum, Sardana Ivanova
 | 		| TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation. Gökçe Uludoğan, Zeynep Yirmibeşoğlu Balal, Furkan Akkurt, Melikşah Türker, Onur Güngör, Susan Üsküdarlı
-| 17:00-17:40		| Invited talk: Kerem Lutfi Senel
+| 17:00-17:40		| Invited talk by Kerem Lutfi Senel
 | 17:40-17:50		| Closing
 |===
 
