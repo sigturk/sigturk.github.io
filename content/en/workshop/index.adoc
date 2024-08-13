@@ -101,7 +101,7 @@ Jafar Isbarov, Kavsar Huseynova, SAMIR RUSTAMOV
 | 		| Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking. Emre Can Acikgoz, Mete Erdogan, Deniz Yuret
 | 		| Phonotactics as an Aid in Low Resource Loan Word Detection and Morphological Analysis in Sakha. Petter Mæhlum, Sardana Ivanova
 | 		| TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation. Gökçe Uludoğan, Zeynep Yirmibeşoğlu Balal, Furkan Akkurt, Melikşah Türker, Onur Güngör, Susan Üsküdarlı
-| 17:00-17:10		| Closing remarks
+| 17:00-17:10		| Closing
 |===
 
 == Awards
