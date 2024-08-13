@@ -65,7 +65,6 @@ Note: All deadlines are 23:59 GMT (same as UTC-0).
 
 == Invited speakers
 
-* Kemal Oflazer, Carnegie Mellon University
 * Gözde Gül Şahin, Koç University
 * Elmurod Kuriyozov, University of A Coruña
 * Lütfi Kerem Senel, Ludwig Maximillian University of Munich
@@ -75,11 +74,11 @@ Note: All deadlines are 23:59 GMT (same as UTC-0).
 [options= "header"]
 |===
 | Time |
-| 09:00 - 09:10	| Opening remarks
-| 09:10-09:50	| Invited talk by Kemal Oflazer
-| 09:50-10:30	| 	Invited talk by Gözde Gül Şahin
-| 10:30 - 11:00		| Coffee break
-| 11:00 - 12:30		| Oral session 1:
+| 09:00-09:10	| Opening remarks
+| 09:10-10:00	| Invited talk by Gözde Gül Şahin
+| 10:00-10:30	| 	Invited talk by Lütfi Kerem Şenel
+| 10:30-11:00		| Coffee break
+| 11:00-12:30		| Oral session 1:
 | 11:00-11:15		| Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models.	Akylbek Maxutov, Ayan Myrzakhmet, Pavel Braslavski
 | 11:20-11:35		| Unsupervised Learning of Turkish Morphology with Multiple Codebook VQ-VAE. Müge Kural, Deniz Yuret
 | 11:40-11:55		| Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili
@@ -92,18 +91,17 @@ Note: All deadlines are 23:59 GMT (same as UTC-0).
 | 14:10-14:25		| Turkish Delights: a Dataset on Turkish Euphemisms. Hasan Can Biyik, Patrick Lee, Anna Feldman
 | 14:30-14:45		| Towards a Clean Text Corpus for Ottoman Turkish. Fatih Burak Karagöz, Berat Doğan, Şaziye Betül Özateş
 | 14:50-15:30		| Invited talk by Elmurod Kuriyozov
-| 15:30 - 16:00		| Coffee break
+| 15:30-16:00		| Coffee break
 | 16:00-17:00		| Poster session (non-archival and Findings papers)
 | 		| Robust Automated Spelling Correction with Deep Ensembles
 Jafar Isbarov, Kavsar Huseynova, SAMIR RUSTAMOV
 | 		| GECTurk: Grammatical Error Correction and Detection Dataset for Turkish. Atakan Kara, Farrin Sofian, Andrew Bond, Gözde Gül Şahin
 | 		| Benchmarking Procedural Language Understanding for Low-Resource Languages: A Case Study on Turkish. Arda Uzunoglu, Gözde Gül Şahin
-| 		| TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish. Arda Yüksel, Abdullatif Köksal, Lütfi Kerem Senel, Anna Korhonen, Hinrich Schuetze
+| 		| TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish. Arda Yüksel, Abdullatif Köksal, Lütfi Kerem Şenel, Anna Korhonen, Hinrich Schuetze
 | 		| Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking. Emre Can Acikgoz, Mete Erdogan, Deniz Yuret
 | 		| Phonotactics as an Aid in Low Resource Loan Word Detection and Morphological Analysis in Sakha. Petter Mæhlum, Sardana Ivanova
 | 		| TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation. Gökçe Uludoğan, Zeynep Yirmibeşoğlu Balal, Furkan Akkurt, Melikşah Türker, Onur Güngör, Susan Üsküdarlı
-| 17:00-17:40		| Invited talk by Kerem Lutfi Senel
-| 17:40-17:50		| Closing
+| 17:00-17:10		| Closing
 |===
 
 == Awards
