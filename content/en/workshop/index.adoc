@@ -107,7 +107,15 @@ Jafar Isbarov, Kavsar Huseynova, SAMIR RUSTAMOV
 
 == Awards
 
-A best paper award will be presented at the workshop and will be announced on our website.
+*Honorable Mentions:*
+
+1. Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models. Akylbek Maxutov, Ayan Myrzakhmet, Pavel Braslavski.
+
+2. Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili.
+
+*Best Paper:*
+
+1. Intelligent Tutor to Support Teaching and Learning of Tatar. Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber.
 
 == Diversity and inclusion statement
 
