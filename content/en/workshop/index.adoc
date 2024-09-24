@@ -81,7 +81,7 @@ Note: All deadlines are 23:59 GMT (same as UTC-0).
 | 11:00-12:30		| Oral session 1:
 | 11:00-11:15		| Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models.	Akylbek Maxutov, Ayan Myrzakhmet, Pavel Braslavski
 | 11:20-11:35		| Unsupervised Learning of Turkish Morphology with Multiple Codebook VQ-VAE. Müge Kural, Deniz Yuret
-| 11:40-11:55		| Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili
+| 11:40-11:55		| Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili, Duygu Ataman
 | 12:00-12:15		| ImplicaTR: A Granular Dataset for Natural Language Inference and Pragmatic Reasoning in Turkish. Mustafa Kürşat Halat, Ümit Atlamaz
 | 12:20-12:35		| A coreference corpus of Turkish situated dialogs.	Faruk Büyüktekin, Umut Özge
 | 12:35-13:30		| Lunch
@@ -111,7 +111,7 @@ Jafar Isbarov, Kavsar Huseynova, SAMIR RUSTAMOV
 
 1. Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models. Akylbek Maxutov, Ayan Myrzakhmet, Pavel Braslavski.
 
-2. Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili.
+2. Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili, Duygu Ataman.
 
 *Best Paper:*
 
