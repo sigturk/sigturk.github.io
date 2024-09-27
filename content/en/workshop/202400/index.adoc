@@ -1,5 +1,5 @@
 ---
-title: "Workshop"
+title: "SIGTURK 2024 Workshop"
 description: "The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024)"
 draft: false
 toc: true
