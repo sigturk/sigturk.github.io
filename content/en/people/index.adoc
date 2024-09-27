@@ -32,3 +32,4 @@ Secretary:: Sardana Ivanova mailto:sigturk.secretary@gmail.com[(email)] link:++h
 == Code Contributors
 
 * Jamshidbek Mirzakhalov link:++https://github.com/mirzakhalov++[(GitHub)]
+* Mehmet Oguz Derin link:++https://github.com/mehmetoguzderin++[(GitHub)]
