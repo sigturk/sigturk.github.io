@@ -1,5 +1,5 @@
 ---
-title: "Workshop"
+title: "SIGTURK 2024 Workshop"
 description: "The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024)"
 draft: false
 toc: true
@@ -9,7 +9,9 @@ contributors: []
 
 :toc:
 
-= The The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024) August 15 2024, Bangkok (Co-located with ACL)
+= The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024) August 15 2024, Bangkok (Co-located with ACL)
+
+Proceedings: https://aclanthology.org/volumes/2024.sigturk-1/
 
 == Introduction
 
@@ -161,10 +163,10 @@ The workshop will be held at Centara Grand and Bangkok Convention Centre in Bang
 
 * Duygu Ataman, New York University
 * Deniz Zeyrek Bozşahin, Middle East Technical University
-* Mehmet Oguz Derin
-* Sardana Ivanova, University of Helsinki
+* Mehmet Oguz Derin (Publications Chair)
+* Sardana Ivanova, University of Helsinki (Program Chair)
 * Abdullatif Köksal, LMU Munich
-* Jonne Sälevä, Brandeis University
+* Jonne Sälevä, Brandeis University (Program Chair)
 
 == Contact information
 
