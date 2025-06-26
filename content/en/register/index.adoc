@@ -5,10 +5,10 @@ draft: false
 images: []
 ---
 
-To start joining membership, you should fill out the https://forms.gle/8iYZoczGARUfUU9A7[form].
+To start joining membership, you should fill out the https://forms.gle/kQNU65HCDqWpjugv5[form].
 
 ++++
-<a class="btn btn-primary btn-lg px-4 mb-2" href="https://forms.gle/8iYZoczGARUfUU9A7" role="button">Registration Form</a>
+<a class="btn btn-primary btn-lg px-4 mb-2" href="https://forms.gle/kQNU65HCDqWpjugv5" role="button">Registration Form</a>
 ++++
 
 // You can become a member of SIGTURK and be updated on recent information and activities by joining our communication channel on https://t.me/+RmCudqEJbMUxOTk8[Telegram].
