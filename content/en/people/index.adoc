@@ -1,6 +1,6 @@
 ---
 title: "People"
-description: "ACL Special Interest Group on Turkic Languages Languages"
+description: "ACL Special Interest Group on Turkic Languages People"
 draft: false
 images: []
 contributors: []
