@@ -1,8 +1,10 @@
 ---
 title: "Contact"
-description: "ACL Special Interest Group on Turkic Languages Contact"
+description: "ACL Special Interest Group on Turkic Languages"
 draft: false
 images: []
 ---
 
-For more information, please email mailto:contact@sigturk.com[contact [at\] sigturk [dot\] com].
+For more information, please email mailto:sigturk.secretary@gmail.com[sigturk.secretary [at\] gmail [dot\] com].
+
+Consider also joining our link:++https://groups.google.com/g/sigturk-community/++[mailing list].

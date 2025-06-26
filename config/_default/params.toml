@@ -12,7 +12,7 @@ description = "ACL Special Interest Group on Turkic Languages"
 ## Open Graph
 images = [""]
 ogLocale = "en"
-domainTLD = "sigturk.com"
+domainTLD = "sigturk.org"
 titleHome = "SIGTURK"
 
 ## Twitter Cards

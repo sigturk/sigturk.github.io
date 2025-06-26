@@ -8,28 +8,16 @@ contributors: []
 
 == Executive Committee
 
-President:: Duygu Ataman mailto:sigturk.president@gmail.com[(email)] link:++https://github.com/d-ataman++[(GitHub)]
+President:: Kemal Oflazer, Carnegie Mellon University mailto:sigturk.secretary@gmail.com[(email)]
 
-Secretary:: Sardana Ivanova mailto:sigturk.secretary@gmail.com[(email)] link:++https://github.com/varie++[(GitHub)]
+Secretary:: Gözde Gül Şahin mailto:sigturk.secretary@gmail.com[(email)]
 
 === Officers
 
-* To be elected
-* Mammad Hajili link:++https://github.com/mammadhajili++[(GitHub)]
-* Abdullatif Köksal link:++https://github.com/akoksal++[(GitHub)]
-* Aziza Mirsaidova link:++https://github.com/azizamirsaidova++[(GitHub)]
-* Jonne Sälevä link:++https://github.com/j0ma++[(GitHub)]
-
-== Organization Contributors
-
-* Deniz Zeyrek Bozşahin, Middle East Technical University link:++https://users.metu.edu.tr/dezeyrek/++[(Webpage)]
-* Necva Bölücü, CSIRO link:++https://people.csiro.au/b/n/necva-bolucu++[(Webpage)]
-
-== Advisory Committee
-
-* Kemal Oflazer, Carnegie Mellon University link:++https://www.andrew.cmu.edu/user/ko/++[(Webpage)]
-
-== Code Contributors
-
-* Jamshidbek Mirzakhalov link:++https://github.com/mirzakhalov++[(GitHub)]
-* Mehmet Oguz Derin link:++https://github.com/mehmetoguzderin++[(GitHub)]
+* Necva Bölücü link:++https://people.csiro.au/b/n/necva-bolucu++[(Webpage)]
+* Gözde Gül Şahin link:++https://gozdesahin.github.io++[(Webpage)]
+* Jafar Isbarov link:++https://ceferisbarov.github.io/++[(Webpage)]
+* Abdullatif Köksal link:++https://akoksal.com/++[(Webpage)]
+* Kemal Oflazer link:++https://www.andrew.cmu.edu/user/ko/++[(Webpage)]
+* Anar Rzayev link:++https://www.github.com/anar-rzayev/++[(GitHub)]
+* Jonne Sälevä link:++https://www.jonnesaleva.com/++[(Webpage)]

@@ -1,7 +1,0 @@
----
-title: "Workshop"
-description: "ACL Special Interest Group on Turkic Languages Workshop"
-draft: false
-images: []
-contributors: []
----
