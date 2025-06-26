@@ -1,4 +1,4 @@
-# baseurl = "https://sigturk.com/"
+# baseurl = "https://sigturk.org/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

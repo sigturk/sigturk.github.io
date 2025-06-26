@@ -9,7 +9,7 @@ contributors: []
 
 :toc:
 
-https://sigturk.com/assets/pdf/SIGTURK_Constitution.pdf[PDF version]
+https://sigturk.github.io/assets/pdf/SIGTURK_Constitution.pdf[PDF version]
 
 == I. TURKIC LANGUAGES
 
@@ -82,7 +82,7 @@ speaker) community working with the language of interest
 
 All officers of the SIG shall be elected by a vote of the membership. The vote shall take place at least one month before the expiration of the terms of the officers to be elected, with at least two months' notice of nominations to SIG members.
 
-Members can nominate other members to eligible positions and/or can self-nominate. Ballots with the names of the candidates will be delivered electronically via email provided by the members and votes will be collected three weeks after distribution of the ballots. The votes   
+Members can nominate other members to eligible positions and/or can self-nominate. Ballots with the names of the candidates will be delivered electronically via email provided by the members and votes will be collected three weeks after distribution of the ballots. The votes
  are counted by all officers in a public meeting and the results are decided using a single transferable vote mechanism.
 
 == VI. MEMBERSHIP

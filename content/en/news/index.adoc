@@ -6,8 +6,10 @@ images: []
 contributors: []
 ---
 
-For announcement and news, please join our https://groups.google.com/a/sigturk.com/g/community-list[mailing list] or take a look at the archive at https://groups.google.com/a/sigturk.com/g/community-list-archive[archive].
+TODO: To be updated in 2025.
 
-++++
-<a class="btn btn-primary btn-lg px-4 mb-2" href="https://groups.google.com/a/sigturk.com/g/community-list-archive" role="button">SIGTURK News Archive</a>
-++++
+// For announcement and news, please join our https://groups.google.com/a/sigturk.com/g/community-list[mailing list] or take a look at the archive at https://groups.google.com/a/sigturk.com/g/community-list-archive[archive].
+
+// ++++
+// <a class="btn btn-primary btn-lg px-4 mb-2" href="https://groups.google.com/a/sigturk.com/g/community-list-archive" role="button">SIGTURK News Archive</a>
+// ++++
