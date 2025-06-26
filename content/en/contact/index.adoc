@@ -6,3 +6,5 @@ images: []
 ---
 
 For more information, please email mailto:sigturk.secretary@gmail.com[sigturk.secretary [at\] gmail [dot\] com].
+
+Consider also joining our link:++https://groups.google.com/g/sigturk-community/++[mailing list].
