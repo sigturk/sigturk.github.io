@@ -19,11 +19,6 @@
   weight = 40
 
 [[main]]
-  name = "Calendar"
-  url = "/calendar/"
-  weight = 45
-
-[[main]]
   name = "News"
   url = "/news/"
   weight = 50
