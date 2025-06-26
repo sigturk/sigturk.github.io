@@ -11,4 +11,4 @@ To start joining membership, you should fill out the https://forms.gle/8iYZoczGA
 <a class="btn btn-primary btn-lg px-4 mb-2" href="https://forms.gle/8iYZoczGARUfUU9A7" role="button">Registration Form</a>
 ++++
 
-You can become a member of SIGTURK and be updated on recent information and activities by joining our communication channels on https://t.me/+RmCudqEJbMUxOTk8[Telegram] and https://join.slack.com/t/sigturk/shared_invite/zt-1pba9n2k3-d1AJLFDd4LXOLE_UE8y4fw[Slack].
+You can become a member of SIGTURK and be updated on recent information and activities by joining our communication channel on https://t.me/+RmCudqEJbMUxOTk8[Telegram].
