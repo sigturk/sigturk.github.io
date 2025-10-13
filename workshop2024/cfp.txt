@@ -1,0 +1,104 @@
+FIRST CALL FOR PAPERS
+---------------------
+
+The First Annual Meeting of the Special Interest Group on Turkic Languages (SIGTURK)
+August 15-16 2024, Bangkok (Co-located with ACL)
+
+INTRODUCTION
+
+We present the first edition of the SIGTURK Workshop representing the
+annual meeting of the ACL Special Interest Group on Turkic Languages,
+which aims to provide a new venue that will promote studies on
+computational linguistics in Turkic languages. Our main objective is to
+bring together an interdisciplinary community of researchers working on
+different aspects of natural language processing (NLP) models and
+corpora in Turkic languages, providing the recently growing number of
+researchers working on the topic with a means of communication and an
+opportunity to present their work and exchange ideas.
+
+TOPICS OF INTEREST
+
+We welcome submissions on, but not limited to, the following topics:
+
+*   Computational linguistics: models of all aspects of linguistics in
+    Turkic languages (e.g., semantics, syntax, lexicon, morphology)
+
+*   Systems: Case studies on the construction of NLP systems for Turkic
+    languages
+
+*   Evaluation: Understanding the applicability of current NLP methods
+    in Turkic languages
+
+*   Metrics: New metrics and measures for evaluating NLP systems
+    suitable to Turkic languages
+
+*   Learning from sparse data: Novel methods for learning from small or
+    sparse data in Turkic languages
+
+*   Resources: Datasets, benchmarks, and software libraries for NLP
+    models in Turkic languages
+
+IMPORTANT DATES
+
+*   First call for papers: February 9, 2024 (Friday)
+*   Paper submission deadline: May 31, 2024 (Friday)
+*   Notification of acceptance: June 16, 2024 (Monday)
+*   Camera-ready submission deadline: July 1, 2024 (Monday)
+*   Workshop dates: August 15-16 (Thursday - Friday)
+
+Note: All deadlines are 11:59 pm UTC -12h (“anywhere on Earth”).
+
+CONTACT INFORMATION
+
+*   Email: workshop@sigturk.com
+*   Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
+*   Official Website: https://sigturk.com/workshop
+
+SUBMISSION GUIDELINES
+
+Research papers
+
+We invite all potential participants to submit their novel research
+contributions in the related fields as long papers following the ACL
+2024 long paper format (anonymized with 8 pages excluding the
+references, and an additional page for the camera-ready versions for the
+accepted papers). All accepted research papers will be published as part
+of our workshop proceedings and will be presented either through oral
+presentations or poster sessions. Our research paper track will accept
+submissions through our own submission system available at
+https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
+
+Extended abstracts
+
+Besides long paper submissions, we also invite previously published or
+ongoing and incomplete research contributions to our non-archival
+extended abstract track. All extended abstracts can use the same EMNLP
+template with a 2-page limit, excluding the bibliography. Extended
+abstracts can be submitted to the workshop submission system using the
+link: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK.
+
+"HACK TOGETHER" PROGRAMMING EVENT
+
+In addition to the workshop itself, the second day will be devoted to a
+full-day collaborative hybrid programming event "Hack Together". Our goal is to
+demonstrate the SIGTURK NLP library and interested parties can
+contribute to the integration of new NLP methods and models into the
+SIGTURK pipeline. The SIGTURK infrastructure can be found at
+https://github.com/sigturk. Findings of the event will be combined into
+a system demonstration paper.
+
+INVITED SPEAKERS
+Kemal Oflazer, Carnegie Mellon University
+
+MORE INFORMATION
+
+For further details and updates, please visit our workshop website:
+https://sigturk.com/workshop
+
+ORGANIZERS
+Duygu Ataman, New York University
+Deniz Zeyrek Bozşahin, Middle East Technical University
+Mehmet Oguz Derin
+Sardana Ivanova, University of Helsinki
+Abdullatif Köksal, LMU Munich
+Jonne Sälevä, Brandeis University
