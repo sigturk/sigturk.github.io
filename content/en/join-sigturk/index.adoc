@@ -1,5 +1,5 @@
 ---
-title: "Register"
+title: "Join SIGTURK"
 description: "ACL Special Interest Group on Turkic Languages Register"
 draft: false
 images: []

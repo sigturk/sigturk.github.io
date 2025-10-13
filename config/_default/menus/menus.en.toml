@@ -1,6 +1,6 @@
 [[main]]
-  name = "Register"
-  url = "/register/"
+  name = "Join"
+  url = "/join-sigturk/"
   weight = 10
 
 [[main]]
@@ -18,15 +18,16 @@
   url = "/coec/"
   weight = 40
 
-# [[main]]
-#   name = "News"
-#   url = "/news/"
-#   weight = 50
 
 [[main]]
   name = "Blog"
   url = "/blog/"
   weight = 55
+
+# [[main]]
+#   name = "News"
+#   url = "/news/"
+#   weight = 50
 
 # [[main]]
 #   name = "Projects"
