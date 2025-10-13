@@ -13,3 +13,9 @@ SIGTURK is the ACL Special Interest Group on Turkic Languages. It is a place of 
 
 == Workshop 2026
 See the link:/workshop2026[Call for Papers] and link:/sharedtask2026[Shared Task] pages.
+
+++++
+<div class="col-lg-9 col-xl-8 text-center">
+  <a class="btn btn-primary btn-lg px-4 mb-2" href="/register/" role="button">Join SIGTURK</a>
+</div>
+++++
