@@ -1,0 +1,12 @@
+---
+title: "Shared Task at SIGTURK 2026 Workshop"
+description: "Shared Task"
+draft: false
+toc: true
+images: []
+contributors: []
+---
+
+== Shared Task
+
+Coming soon...
