@@ -10,5 +10,5 @@ contributors: []
 ---
 :imagesoutdir: static
 
-=== Workshop 2026
+== Workshop 2026
 See the link:/workshop2026[Call for Papers] and link:/sharedtask2026[Shared Task] pages.
