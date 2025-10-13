@@ -40,8 +40,13 @@
 
 [[main]]
   name = "Workshop"
-  url = "/Workshop/"
+  url = "/workshop2026/"
   weight = 80
+
+[[main]]
+  name = "Shared Task"
+  url = "/sharedtask2026/"
+  weight = 90
 
 [[social]]
   name = "GitHub"

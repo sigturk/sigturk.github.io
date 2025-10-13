@@ -5,7 +5,7 @@ draft: false
 images: []
 ---
 
-To start joining membership, you should fill out the https://forms.gle/kQNU65HCDqWpjugv5[form].
+To join SIGTURK as a member, please fill out the form below.
 
 ++++
 <a class="btn btn-primary btn-lg px-4 mb-2" href="https://forms.gle/kQNU65HCDqWpjugv5" role="button">Registration Form</a>

@@ -1,13 +1,15 @@
 ---
 title : "SIGTURK"
 description: "SIGTURK is the ACL Special Interest Group on Turkic Languages."
-lead: "
-**Update:** The SIGTURK 2025 Workshop has been postponed to 2026. Details will be announced later. ** +
-+
-
-SIGTURK is the ACL Special Interest Group on Turkic Languages. It is a place of discussion and implementation for all enthusiasts, including students, researchers, academics, industry professionals, and hobbyists, interested in studying the computational and linguistic aspects of Turkic languages and making more publicly available knowledge, methodology and resources for contributing to the field of computational linguistics in Turkic languages."
+// lead: "
+// "
 draft: false
 images: []
 contributors: []
 ---
 :imagesoutdir: static
+
+SIGTURK is the ACL Special Interest Group on Turkic Languages. It is a place of discussion and implementation for all enthusiasts, including students, researchers, academics, industry professionals, and hobbyists, interested in studying the computational and linguistic aspects of Turkic languages and making more publicly available knowledge, methodology and resources for contributing to the field of computational linguistics in Turkic languages.
+
+== Workshop 2026
+See the link:/workshop2026[Call for Papers] and link:/sharedtask2026[Shared Task] pages.

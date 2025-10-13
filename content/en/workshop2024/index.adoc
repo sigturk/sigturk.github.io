@@ -1,0 +1,179 @@
+---
+title: "SIGTURK 2024 Workshop"
+description: "The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024)"
+draft: false
+toc: true
+images: []
+contributors: []
+---
+
+:toc:
+
+= The First Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2024) August 15 2024, Bangkok (Co-located with ACL)
+
+Proceedings: https://aclanthology.org/volumes/2024.sigturk-1/
+
+== Introduction
+
+We are excited to announce the First Annual Meeting of the ACL Special Interest
+Group on Turkic Languages, held  in conjunction with https://2024.aclweb.org/[Annual Meeting of the
+Association for Computational Linguistics] in Bangkok, Thailand.  Our primary
+aim is to provide a new venue to foster research on computational linguistics
+in Turkic languages.  By co-locating with ACL, we seek to facilitate
+interaction among researchers from diverse backgrounds, encouraging the
+exchange of ideas and the presentation of cutting-edge work in natural language
+processing (NLP) specific to Turkic languages.
+
+The main objectives of the workshop are:
+
+* To construct and present a wide array of methodology and know-how, including foundational work for formulation and analysis of NLP models suitable for Turkic language processing.
+* To provide a better understanding of how Turkic language typology may impact the applicability of current methods and motivate the development of novel methods that are more generic or competitive in Turkic languages
+* Preparation of new corpora and resources in under-studied Turkic languages
+* To build infrastructure by means of software libraries and benchmarks for developing NLP models that would accelerate progress in the field
+* Promote collaborations across scientists from across the world that have specific interests in the study of computational linguistics in Turkic languages.
+
+By supporting collaborations across research groups working on machine
+learning, Turkic linguistics, and real-life applications of NLP tasks in
+various languages, the ultimate goal of the workshop is to enlarge connections
+across our community and allow rapid development of NLP methods and tools that
+are applicable to a wide range of Turkic languages.
+
+== Important dates
+
+[options= "header"]
+|===
+| Event | Date
+| First Call for Papers | February 9, 2024 (Friday)
+| Second Call for Papers | March 4, 2024 (Monday)
+| Announcement of Deadline Extension | May 31, 2024 (Monday)
+| Workshop Paper Submission Deadline | June 18, 2024 (Tuesday)
+| Notification of Acceptance | June 24, 2024 (Monday)
+| Camera-ready Papers Due | July 1, 2024 (Monday)
+| Workshop Date | August 15, 2024 (Thursday)
+|===
+
+== Topics of interest
+
+We welcome submissions on, but not limited to, the following topics:
+
+* Computational linguistics: models of all aspects of linguistics in Turkic languages (e.g., semantics, syntax, lexicon, morphology)
+* Systems: Case studies on the construction of NLP systems for Turkic languages
+* Evaluation: Understanding the applicability of current NLP methods in Turkic languages
+* Metrics: New metrics and measures for evaluating NLP systems suitable to Turkic languages
+* Learning from sparse data: Novel methods for learning from small or sparse data in Turkic languages
+* Resources: Datasets, benchmarks, and software libraries for NLP models in Turkic languages
+
+Note: All deadlines are 23:59 GMT (same as UTC-0).
+
+== Invited speakers
+
+* Gözde Gül Şahin, Koç University
+* Elmurod Kuriyozov, University of A Coruña
+* Lütfi Kerem Senel, Ludwig Maximillian University of Munich
+
+== Program
+
+[options= "header"]
+|===
+| Time |
+| 09:00-09:10	| Opening remarks
+| 09:10-10:00	| Invited talk by Gözde Gül Şahin
+| 10:00-10:30	| 	Invited talk by Lütfi Kerem Şenel
+| 10:30-11:00		| Coffee break
+| 11:00-12:30		| Oral session 1:
+| 11:00-11:15		| Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models.	Akylbek Maxutov, Ayan Myrzakhmet, Pavel Braslavski
+| 11:20-11:35		| Unsupervised Learning of Turkish Morphology with Multiple Codebook VQ-VAE. Müge Kural, Deniz Yuret
+| 11:40-11:55		| Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili, Duygu Ataman
+| 12:00-12:15		| ImplicaTR: A Granular Dataset for Natural Language Inference and Pragmatic Reasoning in Turkish. Mustafa Kürşat Halat, Ümit Atlamaz
+| 12:20-12:35		| A coreference corpus of Turkish situated dialogs.	Faruk Büyüktekin, Umut Özge
+| 12:35-13:30		| Lunch
+| 13:30-14:50		| Oral session 2:
+| 13:30-13:45		| Intelligent Tutor to Support Teaching and Learning of Tataar. Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber
+| 13:50-14:05		| Do LLMs Recognize me, When I is not me: Assessment of LLMs Understanding of Turkish Indexical Pronouns in Indexical Shift Context. Metehan Oğuz, Yusuf Umut Ciftci, Yavuz Faruk Bakman
+| 14:10-14:25		| Turkish Delights: a Dataset on Turkish Euphemisms. Hasan Can Biyik, Patrick Lee, Anna Feldman
+| 14:30-14:45		| Towards a Clean Text Corpus for Ottoman Turkish. Fatih Burak Karagöz, Berat Doğan, Şaziye Betül Özateş
+| 14:50-15:30		| Invited talk by Elmurod Kuriyozov
+| 15:30-16:00		| Coffee break
+| 16:00-17:00		| Poster session (non-archival and Findings papers)
+| 		| Robust Automated Spelling Correction with Deep Ensembles
+Jafar Isbarov, Kavsar Huseynova, SAMIR RUSTAMOV
+| 		| GECTurk: Grammatical Error Correction and Detection Dataset for Turkish. Atakan Kara, Farrin Sofian, Andrew Bond, Gözde Gül Şahin
+| 		| Benchmarking Procedural Language Understanding for Low-Resource Languages: A Case Study on Turkish. Arda Uzunoglu, Gözde Gül Şahin
+| 		| TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish. Arda Yüksel, Abdullatif Köksal, Lütfi Kerem Şenel, Anna Korhonen, Hinrich Schuetze
+| 		| Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking. Emre Can Acikgoz, Mete Erdogan, Deniz Yuret
+| 		| Phonotactics as an Aid in Low Resource Loan Word Detection and Morphological Analysis in Sakha. Petter Mæhlum, Sardana Ivanova
+| 		| TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation. Gökçe Uludoğan, Zeynep Yirmibeşoğlu Balal, Furkan Akkurt, Melikşah Türker, Onur Güngör, Susan Üsküdarlı
+| 17:05-17:45		| Panel discussion: Kemal Oflazer, Deniz Yüret, Gözde G. Şahin
+| 17:45-17:50		| Closing
+|===
+
+== Awards
+
+*Honorable Mentions:*
+
+1. Do LLMs Speak Kazakh? A Pilot Evaluation of Seven Models. Akylbek Maxutov, Ayan Myrzakhmet, Pavel Braslavski.
+
+2. Open foundation models for Azerbaijani language. Jafar Isbarov, Kavsar Huseynova, Elvin Mammadov, Mammad Hajili, Duygu Ataman.
+
+*Best Paper:*
+
+1. Intelligent Tutor to Support Teaching and Learning of Tatar. Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber.
+
+== Diversity and inclusion statement
+
+We are committed to promoting diversity and inclusion within our community.
+
+== Workshop format
+
+The workshop will be conducted in a hybrid format, with both an in-person component and virtual participation options.
+
+== Registration
+
+Details regarding registration can be found on the main conference website.
+
+== Venue
+
+The workshop will be held at Centara Grand and Bangkok Convention Centre in Bangkok, Thailand. Further details TBA.
+
+== Program committee
+
+* Askar Aituov, Google for Developers
+* Necva Bölücü, CSIRO
+* Çağrı Çöltekin, University of Tübingen
+* Ebru Ersöyleyen, Middle East Technical University
+* Orhan Fırat, Google Deepmind
+* Omer Goldman, Bar-Ilan University
+* Mammad Hajili, Microsoft
+* Rasul Karimov, Sharechat
+* Bekhzod Khoshimov, UW-Madison
+* Abdullatif Köksal, LMU Munich
+* Murathan Kurfalı, Stockholm University
+* Constantine Lignos, Brandeis University
+* Aziza Mirsaidova, Microsoft
+* Jamshidbek Mirzakhalov, Monic AI
+* Saliha Muradoğlu, Australian National University
+* Fırat Öter, Middle East Technical University
+* Arzucan Özgür, Bogaziçi University
+* Adnan Öztürel, Google
+* Gözde Gül Şahin, Koç University
+* Francis Tyers, Indiana University
+* Jonathan Washington, Swarthmore College
+
+== Organizing committee
+
+* Duygu Ataman, New York University
+* Deniz Zeyrek Bozşahin, Middle East Technical University
+* Mehmet Oguz Derin (Publications Chair)
+* Sardana Ivanova, University of Helsinki (Program Chair)
+* Abdullatif Köksal, LMU Munich
+* Jonne Sälevä, Brandeis University (Program Chair)
+
+== Contact information
+
+* Email: sigturk2024workshop@gmail.com
+* Submission Portal: https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/SIGTURK
+* Official Website: https://sigturk.github.io/workshop
+
+== More information
+
+For further details and updates, please visit our workshop website: https://sigturk.com/workshop
