@@ -1,6 +1,6 @@
 [[main]]
-  name = "Register"
-  url = "/register/"
+  name = "Join SIGTURK"
+  url = "/join-sigturk/"
   weight = 10
 
 [[main]]
