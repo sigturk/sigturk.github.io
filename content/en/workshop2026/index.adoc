@@ -86,9 +86,7 @@ https://github.com/acl-org/acl-style-files (Latex and Word).
 
 We will accept either direct submissions through our own submission
 page, or submissions to the general ACL Rolling Review. Direct
-submissions will be made via http://openreview.net[openreview.net]. The
-exact URL will be available shortly at the workshop website link on
-http://sigturk.org[sigturk.org].
+submissions will be made via https://openreview.net/group?id=eacl.org/EACL/2026/Workshops/SIGTURK[OpenReview].
 
 All accepted papers will be published as part of our workshop
 proceedings and will be presented either through oral presentations or
