@@ -92,6 +92,12 @@ All accepted papers will be published as part of our workshop
 proceedings and will be presented either through oral presentations or
 poster sessions.
 
+++++
+<div class="col-lg-9 col-xl-8 text-center">
+  <a class="btn btn-primary btn-lg px-4 mb-2" href="https://openreview.net/group?id=eacl.org/EACL/2026/Workshops/SIGTURK" role="button">Submit on OpenReview</a>
+</div>
+++++
+
 === Event details and registration
 
 The workshop will be conducted in person at EACL and the presentation
