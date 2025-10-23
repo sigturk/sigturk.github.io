@@ -1,5 +1,5 @@
 ---
-title : "SIGTURK"
+title : ""
 description: "SIGTURK is the ACL Special Interest Group on Turkic Languages."
 // lead: "
 // "
