@@ -7,6 +7,185 @@ images: []
 contributors: []
 ---
 
-== Shared Task
 
-Coming soon...
+== Terminology-Aware Machine Translation for English–Turkish Scientific Texts
+
+Today, English serves as the default language of science, leading to the creation of a vast body of scientific texts with specialized technical terminology in English. Domain experts play a crucial role—and ideally should be the primary decision-makers—in determining how scientific terms are translated into their native languages. In this work, we explore whether models can be developed to follow experts’ translation choices and automatically correct or post-edit translations accordingly.
+
+== Subtask 1 – Term Detection
+Before correcting the translation of technical terms, we must first be able to detect them. The initial task, therefore, is to accurately identify the boundaries of these terms. Given the paragraphs and the sentences, the model should fill the term_pairs with the detected terms. To support contextual understanding, we also provide the corresponding source and target paragraphs.
+
+=== Data Format
+
+Example JSON instance:
+
+[source,json]
+----
+{
+    "paragraph_id": 1,
+    "sentence_id": 1,
+    "source_paragraph": "Randomness is one of the most important parts of cryptography because key generation and the key itself depend on random values. In literature, there exist statistical randomness tests and test suites to evaluate the randomness of the cryptographic algorithm. Although there exist randomness tests, there is no mathematical evidence to prove that a sequence or a number is random. Therefore, it is vital to choose tests in the test suites due to independency and coverage of the tests used in the suites. Sensitivity of these tests to nonnandom data is also important. The tests should be classified to determine that tests are independent and wide.",
+    "target_paragraph": "Rasgelelik kriptografinin en önemli kısımlarından biridir çünkü, anahtar üretimi ve anahtarın kendisi rastgele değerlere bağlıdır. Literatürde birçok istatistiksel rastgelelik testi ve bu testleri içeren test paketleri yer almaktadır. Buna rağmen bir dizinin veya bir sayının rastgele olduğunu gösterecek hiçbir matematiksel kanıt yoktur. Bundan dolayı bir istatistiksel test paketi oluştururken bu testlerin seçimi hayati bir önem taşımaktadır. Ayrıca bu testlerin rastgele olmayan verilere karşı duyarlılığı da çok önemlidir. İstatistiksel testlerin birbirinden bağımsız olduğunu ve kapsamının geniş olduğunu belirlemek için sınıflandırılması gerekmektedir.",
+    "source_sentence": "Randomness is one of the most important parts of cryptography because key generation and the key itself depend on random values.",
+    "target_sentence": "Rastgelelik kriptografinin en önemli kısımlarından biridir çünkü, anahtar üretimi ve anahtarın kendisi rastgele değerlere bağlıdır.",
+    "term_pairs": [
+        {
+            "en": "Randomness",
+            "en_start": 0,
+            "en_end": 10,
+            "tr": "Rastgelelik",
+            "tr_start": 0,
+            "tr_end": 11
+        },
+        {
+            "en": "cryptography",
+            "en_start": 49,
+            "en_end": 61,
+            "tr": "kriptografinin",
+            "tr_start": 12,
+            "tr_end": 26
+        },
+        {
+            "en": "key generation",
+            "en_start": 70,
+            "en_end": 84,
+            "tr": "anahtar üretimi",
+            "tr_start": 66,
+            "tr_end": 81
+        },
+        {
+            "en": "key",
+            "en_start": 70,
+            "en_end": 73,
+            "tr": "anahtar",
+            "tr_start": 66,
+            "tr_end": 73
+        },
+        {
+            "en": "random values",
+            "en_start": 114,
+            "en_end": 127,
+            "tr": "rastgele değerlere",
+            "tr_start": 103,
+            "tr_end": 121
+        }
+    ]
+}
+
+----
+
+=== Evaluation
+We use *Precision*, *Recall*, and *micro/macro F1* to evaluate each direction separately.
+Evaluation is token-based: partial matches (e.g., detecting “key” instead of “key generation”) receive proportional credit.
+See the provided evaluation script for exact scoring details.
+
+== Subtask 2 – Term Correction with Expert Input
+
+In this subtask, the goal is to *post-edit the translation of technical terms* using expert-provided hints.
+Given the source and target paragraphs, corresponding sentences, detected term boundaries, and expert input (if available), the model must correct the translation of each term to conform to the expert’s preferred terminology.
+
+The system should fill the `"correction"` field for each term:
+
+* If no correction is needed, output `"no-correction-needed"`.
+* The field must contain only the corrected Turkish term (with appropriate suffixes if required).
+
+This task focuses on evaluating the *instruction-following capability* of pretrained language models.
+Note that:
+
+* The provided hints may already represent the correct translation.
+* In some cases, the hint may appear without Turkish suffixes or as a partial translation.
+* Models should use the hint contextually and output a fluent, morphologically correct correction.
+
+=== Data Format
+
+An example JSON entry with required corrections is shown below:
+
+[source,json]
+----
+    {
+        "paragraph_id": 2,
+        "sentence_id": 5,
+        "source_paragraph": "In the early days of computing, programmers and developers shared software in order to learn from each other and evolve the field of computing. Eventually, the open-source notion moved to the way side of commercialization of software in the years 1970–1980. However, academics still often developed software collaboratively. For example, donald knuth in 1979 with the tex typesetting system or richard stallman in 1983 with the gnu operating system. In 1997, eric raymond published the cathedral and the bazaar, a reflective analysis of the hacker community and free-software principles. The paper received significant attention in early 1998, and was one factor in motivating netscape communications corporation to release their popular netscape communicator internet suite as free software.",
+        "target_paragraph": "Bilgi işlemin ilk günlerinde, programcılar ve geliştiriciler, birbirlerinden öğrenmek ve bilgi işlem alanını geliştirmek için yazılımları paylaştılar. Sonunda, açık kaynak kavramı 1970-1980 yıllarında yazılımın ticarileştirilmesinin tarafına geçti. Ancak, akademisyenler yine de çoğu zaman işbirliği içinde yazılım geliştirdiler. Örneğin, tex dizgi sistemi  ile 1979'da donald knuth veya gnu işletim sistemi ile 1983'te richard stallman . 1997'de eric raymond, hacker topluluğunun ve özgür yazılım ilkelerinin yansıtıcı bir analizi olan the cathedral and the bazaar'ı yayınladı. Makale, 1998'in başlarında önemli bir ilgi gördü ve netscape communications corporation'ı popüler netscape communicator internet paketini özgür yazılım olarak yayınlamaya motive eden bir faktördü.",
+        "source_sentence": "In 1997, eric raymond published the cathedral and the bazaar, a reflective analysis of the hacker community and free-software principles.",
+        "target_sentence": "1997'de eric raymond, hacker topluluğunun ve özgür yazılım ilkelerinin yansıtıcı bir analizi olan the cathedral and the bazaar'ı yayınladı.",
+        "term_pairs": [
+            {
+                "en": "hacker community",
+                "hint": "bilgisayar korsanı",
+                "en_start": 91,
+                "en_end": 107,
+                "tr": "hacker topluluğunun",
+                "correction": "bilgisayar korsanı topluluğunun",
+                "tr_start": 22,
+                "tr_end": 41
+            },
+            {
+                "en": "free-software",
+                "hint": "açık yazılım",
+                "en_start": 112,
+                "en_end": 125,
+                "tr": "özgür yazılım",
+                "correction": "açık yazılım",
+                "tr_start": 45,
+                "tr_end": 58
+            }
+        ]
+    }
+----
+
+=== Evaluation
+
+Accuracy is measured on the `correction` field using *Exact Match*.
+
+== Subtask 3 – End-to-End Post-Edit
+
+Here, we are curious how the models would perform end-to-end when given access to terimler.org. The models need not query terimler.org instantly; the offline glossary will be provided in a dictionary format. Here, we will not provide the term boundaries or hints, but only the final translation. Given the source and target paragraphs and sentences; the task is to post-edit the target sentence. The model should fill the edited_target_sentence correctly.
+
+=== Example
+
+[source,json]
+----
+{
+  "source_sentence": "We discuss p-branes, plane waves, Kaluza-Klein monopoles, and time-dependent S-brane solutions.",
+  "target_sentence": "Dalgaları, p-branları, Kaluza-Klein monopollerini ve zamana bağlı S-brane çözümlerini tartışacağız.",
+  "edited_target_sentence": "Düzlem dalgaları, p-zarları, Kaluza-Klein monopollerini ve zamana bağlı S-brane çözümlerini tartışacağız."
+}
+----
+
+=== Evaluation
+
+We evaluate post-edit outputs using *chrF* and *COMET* scores (subject to change).
+
+== Data
+TBA
+
+== Development & Evaluation Data
+TBA
+
+== Participation Details
+TBA
+
+== Submission Guidelines
+TBA
+
+== Important Dates
+
+[cols="2,1",options="header"]
+|===
+| Event | Date (AoE)
+| Task details and dev data release | October 27, 2025
+| Test data release / submissions open | November 8, 2025
+| Submission deadline | December 15, 2025
+| Evaluation completed | January 2, 2026
+| System paper deadline | January 2, 2026
+| Notification of acceptance | January 23, 2026
+| Camera-ready papers due | February 3, 2026
+|===
+
+== Organizers
+Asst. Prof. Gözde Gül Şahin, Koç University +
+Ali Gebeşçe, Koç University +
+Ege Uğur Amasya , Koç University +
+
+
