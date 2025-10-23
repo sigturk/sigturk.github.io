@@ -14,6 +14,6 @@ SIGTURK is the ACL Special Interest Group on Turkic Languages and aims to bring 
 == Workshop 2026
 
 [link=/workshop2026]
-image::https://www.cs.brandeis.edu/~jonne/sigturk-workshop-poster.png[SIGTURK 2026 Workshop Poster]
+image::/static/assets/png/sigturk-workshop-poster.png[SIGTURK 2026 Workshop Poster]
 
 See the link:/workshop2026[Call for Papers] and link:/sharedtask2026[Shared Task] pages.
