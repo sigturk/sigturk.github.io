@@ -71,7 +71,7 @@ syntax, semantics). +
 * Cross-lingual transfer between Turkic languages or from/to
 high-resource languages.
 
-The workshop will also host a shared task on *Terminology-Aware Machine Translation for English–Turkish Scientific Texts.*.
+The workshop will also host a shared task on *Terminology-Aware Machine Translation for English–Turkish Scientific Texts*.
 Details can be found on the link:/sharedtask2026[Shared Task] page.
 
 === Submissions
