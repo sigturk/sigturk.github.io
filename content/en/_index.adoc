@@ -10,7 +10,7 @@ contributors: []
 :imagesoutdir: static
 :imagesdir: /assets/img
 
-SIGTURK is the ACL Special Interest Group on Turkic Languages and aims to bring together all researchers working on computational linguistics in Turkic languages.
+SIGTURK is the ACL Special Interest Group on Turkic Languages and brings together researchers working on computational linguistics in Turkic languages.
 
 == Workshop 2026
 
