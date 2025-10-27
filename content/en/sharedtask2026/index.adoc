@@ -163,7 +163,7 @@ We evaluate post-edit outputs using *chrF* and *COMET* scores (subject to change
 We provide an evaluation script along with development data for all subtasks on our GitHub repository: https://github.com/aligebesce/sigturk2026_sharedtask
 
 == Important Note on Models
-Participants may use only pretrained models and resources whose weights are openly available for download at evaluation time. Use of models with closed or restricted weights (e.g., API‑only, gated by manual approval, paywalled checkpoints, or proprietary services) is not permitted. All model architectures are allowed.
+Participants may use only pretrained models and resources whose weights are openly available for download at evaluation time. Use of models with closed or restricted weights (e.g., API‐only, gated by manual approval, paywalled checkpoints, or proprietary services) is not permitted. All model architectures are allowed.
 
 Participants must clearly document all models and resources used in their system description papers, including:
 
@@ -171,7 +171,7 @@ Participants must clearly document all models and resources used in their system
 
 * where the weights can be obtained (URL) and the license,
 
-* any additional resources, training or fine‑tuning data, and prompts.
+* any additional resources, training or fine‐tuning data, and prompts.
 
 == Submission of Model Predictions
 TBA
@@ -203,8 +203,8 @@ Ege Uğur Amasya , Koç University +
 For any questions regarding the shared task, please contact: sigturk2026.sharedtask@gmail.com
 
 == Acknowledgements
-This research is supported by the Wikimedia Foundation Research Fund (Grant No. G‑RS‑2402‑15231). We thank Zafer Batık and Başak Tosun of the Wikimedia Community User Group Turkey for introductions to the Turkish Wikipedia community and assistance with our inquiries regarding the Wikimedia Foundation and community; Kızıl of the Wikipedia Turkey Translators Group for connecting us with translators and demonstrating the translation workflow within Turkish Wikipedia; Prof. Bülent Sankur of terimler.org for insights on technical translations and for facilitating connections with academics who contributed to terminology decisions; and Gizem Ekiz for invaluable help organizing project events and coordinating communication among academics and Wikipedians.
+This research is supported by the Wikimedia Foundation Research Fund (Grant No. G‐RS‐2402‐15231). We thank Zafer Batık and Başak Tosun of the Wikimedia Community User Group Turkey for introductions to the Turkish Wikipedia community and assistance with our inquiries regarding the Wikimedia Foundation and community; Kızıl of the Wikipedia Turkey Translators Group for connecting us with translators and demonstrating the translation workflow within Turkish Wikipedia; Prof. Bülent Sankur of terimler.org for insights on technical translations and for facilitating connections with academics who contributed to terminology decisions; and Gizem Ekiz for invaluable help organizing project events and coordinating communication among academics and Wikipedians.
 
 
-
+python3 -c "import unicodedata; f='/Users/aligebesce/PycharmProjects/sigturk.github.io/content/en/sharedtask2026/index.adoc'; d=open(f).read(); open(f, 'w').write(unicodedata.normalize('NFKC', d))"
 
