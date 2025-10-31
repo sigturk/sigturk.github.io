@@ -127,7 +127,7 @@ An example JSON entry with required corrections is shown below:
                 "tr_start": 37,
                 "tr_end": 63,
                 "hint": "üç yönlü tokalaşma",
-                "correction": "tcp 3 yönlü tokalaşma"
+                "correction": "tcp 3 yönlü tokalaşmasını"
             },
             {
                 "en": "port scanner",
