@@ -86,7 +86,6 @@ Given the source and target paragraphs, corresponding sentences, detected term b
 
 The system should fill the `"correction"` field for each term:
 
-* If no correction is needed, output `"no-correction-needed"`.
 * The field must contain only the corrected Turkish term (with appropriate suffixes if required).
 
 This task focuses on evaluating the *instruction-following capability* of pretrained language models.
@@ -103,32 +102,42 @@ An example JSON entry with required corrections is shown below:
 [source,json]
 ----
     {
-        "paragraph_id": 2,
-        "sentence_id": 5,
-        "source_paragraph": "In the early days of computing, programmers and developers shared software in order to learn from each other and evolve the field of computing. Eventually, the open-source notion moved to the way side of commercialization of software in the years 1970–1980. However, academics still often developed software collaboratively. For example, donald knuth in 1979 with the tex typesetting system or richard stallman in 1983 with the gnu operating system. In 1997, eric raymond published the cathedral and the bazaar, a reflective analysis of the hacker community and free-software principles. The paper received significant attention in early 1998, and was one factor in motivating netscape communications corporation to release their popular netscape communicator internet suite as free software.",
-        "target_paragraph": "Bilgi işlemin ilk günlerinde, programcılar ve geliştiriciler, birbirlerinden öğrenmek ve bilgi işlem alanını geliştirmek için yazılımları paylaştılar. Sonunda, açık kaynak kavramı 1970-1980 yıllarında yazılımın ticarileştirilmesinin tarafına geçti. Ancak, akademisyenler yine de çoğu zaman işbirliği içinde yazılım geliştirdiler. Örneğin, tex dizgi sistemi  ile 1979'da donald knuth veya gnu işletim sistemi ile 1983'te richard stallman . 1997'de eric raymond, hacker topluluğunun ve özgür yazılım ilkelerinin yansıtıcı bir analizi olan the cathedral and the bazaar'ı yayınladı. Makale, 1998'in başlarında önemli bir ilgi gördü ve netscape communications corporation'ı popüler netscape communicator internet paketini özgür yazılım olarak yayınlamaya motive eden bir faktördü.",
-        "source_sentence": "In 1997, eric raymond published the cathedral and the bazaar, a reflective analysis of the hacker community and free-software principles.",
-        "target_sentence": "1997'de eric raymond, hacker topluluğunun ve özgür yazılım ilkelerinin yansıtıcı bir analizi olan the cathedral and the bazaar'ı yayınladı.",
+        "paragraph_id": 1,
+        "sentence_id": 3,
+        "source_paragraph": "The simplest port scanners use the operating system's network functions and are generally the next option to go to when syn is not a feasible option (described next). Nmap calls this mode connect scan, named after the unix connect() system call. If a port is open, the operating system completes the tcp three-way handshake, and the port scanner immediately closes the connection to avoid performing a denial-of-service attack. Otherwise an error code is returned. This scan mode has the advantage that the user does not require special privileges. However, using the os network functions prevents low-level control, so this scan type is less common.",
+        "target_paragraph": "En basit port tarayıcıları işletim sisteminin ağ işlevlerini kullanır ve ve genellikle uygulanabilir bir seçenek olmadığında syn gidilebilecek sonraki seçenektir (sonraki bölümde açıklanmaktadır). Nmap , unix connect () sistem çağrısından sonra adlandırılan bu mod bağlantı taramasını çağırır. Eğer bağlantı açıksa işletim sistemi tcp 3 yollu el sıkışmasını tamamlar ve bağlantı noktası dos saldırısı yapılmasını önlemek amacıyla bağlantıyı hemen kapatır. Aksi halde bir hata kodu döndürülür. Bu tarama modu sayesinde, kullanıcının özel ayrıcalıklara sahip olmasına gerek yoktur. Buna rağmen, işletim sistemi ağ fonksiyonlarını kullanmak düşük seviye kontrolünü önler, bu nedenle bu tarama türü daha az yaygındır.",
+        "source_sentence": "If a port is open, the operating system completes the tcp three-way handshake, and the port scanner immediately closes the connection to avoid performing a denial-of-service attack.",
+        "target_sentence": "Eğer bağlantı açıksa işletim sistemi tcp 3 yollu el sıkışmasını tamamlar ve bağlantı noktası dos saldırısı yapılmasını önlemek amacıyla bağlantıyı hemen kapatır.",
         "term_pairs": [
             {
-                "en": "hacker community",
-                "hint": "bilgisayar korsanı",
-                "en_start": 91,
-                "en_end": 107,
-                "tr": "hacker topluluğunun",
-                "correction": "bilgisayar korsanı topluluğunun",
-                "tr_start": 22,
-                "tr_end": 41
+                "en": "port",
+                "en_start": 5,
+                "en_end": 9,
+                "tr": "bağlantı",
+                "tr_start": 5,
+                "tr_end": 13,
+                "hint": "bağlantı noktası",
+                "correction": "bağlantı noktası"
             },
             {
-                "en": "free-software",
-                "hint": "açık yazılım",
-                "en_start": 112,
-                "en_end": 125,
-                "tr": "özgür yazılım",
-                "correction": "açık yazılım",
-                "tr_start": 45,
-                "tr_end": 58
+                "en": "tcp three-way handshake",
+                "en_start": 54,
+                "en_end": 77,
+                "tr": "tcp 3 yollu el sıkışmasını",
+                "tr_start": 37,
+                "tr_end": 63,
+                "hint": "üç yönlü tokalaşma",
+                "correction": "tcp 3 yönlü tokalaşmasını"
+            },
+            {
+                "en": "port scanner",
+                "en_start": 87,
+                "en_end": 99,
+                "tr": "bağlantı noktası",
+                "tr_start": 76,
+                "tr_end": 92,
+                "hint": "bağlantı noktaları tarayıcısı",
+                "correction": "bağlantı noktaları tarayıcısı"
             }
         ]
     }
@@ -157,17 +166,23 @@ Here, we are curious how the models would perform end-to-end when given access t
 
 We evaluate post-edit outputs using *chrF* and *COMET* scores (subject to change).
 
-== Data
+== Evaluation Script and Development Data
+We provide an evaluation script along with development data for all subtasks on our GitHub repository: https://github.com/aligebesce/sigturk2026_sharedtask
+
+== Submission of Model Predictions
 TBA
 
-== Development & Evaluation Data
+== Submission of Papers
 TBA
 
-== Participation Details
-TBA
+== Important Note on Models
+Participants may use only pretrained models and resources whose weights are openly available for download at evaluation time. Use of models with closed or restricted weights (e.g., API‐only, gated by manual approval, paywalled checkpoints, or proprietary services) is not permitted. All model architectures are allowed.
 
-== Submission Guidelines
-TBA
+Participants must clearly document all models and resources used in their system description papers, including:
+
+* model name and version/commit,
+* where the weights can be obtained (URL) and the license,
+* any additional resources, training or fine‐tuning data, and prompts.
 
 == Important Dates
 
@@ -188,4 +203,8 @@ Asst. Prof. Gözde Gül Şahin, Koç University +
 Ali Gebeşçe, Koç University +
 Ege Uğur Amasya , Koç University +
 
+== Contact
+For any questions regarding the shared task, please contact: sigturk2026.sharedtask@gmail.com
 
+== Acknowledgements
+This research is supported by the Wikimedia Foundation Research Fund (Grant No. G‐RS‐2402‐15231). We thank Zafer Batık and Başak Tosun of the Wikimedia Community User Group Turkey for introductions to the Turkish Wikipedia community and assistance with our inquiries regarding the Wikimedia Foundation and community; Kızıl of the Wikipedia Turkey Translators Group for connecting us with translators and demonstrating the translation workflow within Turkish Wikipedia; Prof. Bülent Sankur of terimler.org for insights on technical translations and for facilitating connections with academics who contributed to terminology decisions; and Gizem Ekiz for invaluable help organizing project events and coordinating communication among academics and Wikipedians.
