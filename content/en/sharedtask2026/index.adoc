@@ -7,7 +7,6 @@ images: []
 contributors: []
 ---
 
-
 == Terminology-Aware Machine Translation for English–Turkish Scientific Texts
 
 Today, English serves as the default language of science, leading to the creation of a vast body of scientific texts with specialized technical terminology in English. Domain experts play a crucial role—and ideally should be the primary decision-makers—in determining how scientific terms are translated into their native languages. In this work, we explore whether models can be developed to follow experts’ translation choices and automatically correct or post-edit translations accordingly.
@@ -71,7 +70,6 @@ Example JSON instance:
         }
     ]
 }
-
 ----
 
 === Evaluation
@@ -101,46 +99,46 @@ An example JSON entry with required corrections is shown below:
 
 [source,json]
 ----
-    {
-        "paragraph_id": 1,
-        "sentence_id": 3,
-        "source_paragraph": "The simplest port scanners use the operating system's network functions and are generally the next option to go to when syn is not a feasible option (described next). Nmap calls this mode connect scan, named after the unix connect() system call. If a port is open, the operating system completes the tcp three-way handshake, and the port scanner immediately closes the connection to avoid performing a denial-of-service attack. Otherwise an error code is returned. This scan mode has the advantage that the user does not require special privileges. However, using the os network functions prevents low-level control, so this scan type is less common.",
-        "target_paragraph": "En basit port tarayıcıları işletim sisteminin ağ işlevlerini kullanır ve ve genellikle uygulanabilir bir seçenek olmadığında syn gidilebilecek sonraki seçenektir (sonraki bölümde açıklanmaktadır). Nmap , unix connect () sistem çağrısından sonra adlandırılan bu mod bağlantı taramasını çağırır. Eğer bağlantı açıksa işletim sistemi tcp 3 yollu el sıkışmasını tamamlar ve bağlantı noktası dos saldırısı yapılmasını önlemek amacıyla bağlantıyı hemen kapatır. Aksi halde bir hata kodu döndürülür. Bu tarama modu sayesinde, kullanıcının özel ayrıcalıklara sahip olmasına gerek yoktur. Buna rağmen, işletim sistemi ağ fonksiyonlarını kullanmak düşük seviye kontrolünü önler, bu nedenle bu tarama türü daha az yaygındır.",
-        "source_sentence": "If a port is open, the operating system completes the tcp three-way handshake, and the port scanner immediately closes the connection to avoid performing a denial-of-service attack.",
-        "target_sentence": "Eğer bağlantı açıksa işletim sistemi tcp 3 yollu el sıkışmasını tamamlar ve bağlantı noktası dos saldırısı yapılmasını önlemek amacıyla bağlantıyı hemen kapatır.",
-        "term_pairs": [
-            {
-                "en": "port",
-                "en_start": 5,
-                "en_end": 9,
-                "tr": "bağlantı",
-                "tr_start": 5,
-                "tr_end": 13,
-                "hint": "bağlantı noktası",
-                "correction": "bağlantı noktası"
-            },
-            {
-                "en": "tcp three-way handshake",
-                "en_start": 54,
-                "en_end": 77,
-                "tr": "tcp 3 yollu el sıkışmasını",
-                "tr_start": 37,
-                "tr_end": 63,
-                "hint": "üç yönlü tokalaşma",
-                "correction": "tcp 3 yönlü tokalaşmasını"
-            },
-            {
-                "en": "port scanner",
-                "en_start": 87,
-                "en_end": 99,
-                "tr": "bağlantı noktası",
-                "tr_start": 76,
-                "tr_end": 92,
-                "hint": "bağlantı noktaları tarayıcısı",
-                "correction": "bağlantı noktaları tarayıcısı"
-            }
-        ]
-    }
+{
+    "paragraph_id": 1,
+    "sentence_id": 3,
+    "source_paragraph": "The simplest port scanners use the operating system's network functions and are generally the next option to go to when syn is not a feasible option (described next). Nmap calls this mode connect scan, named after the unix connect() system call. If a port is open, the operating system completes the tcp three-way handshake, and the port scanner immediately closes the connection to avoid performing a denial-of-service attack. Otherwise an error code is returned. This scan mode has the advantage that the user does not require special privileges. However, using the os network functions prevents low-level control, so this scan type is less common.",
+    "target_paragraph": "En basit port tarayıcıları işletim sisteminin ağ işlevlerini kullanır ve ve genellikle uygulanabilir bir seçenek olmadığında syn gidilebilecek sonraki seçenektir (sonraki bölümde açıklanmaktadır). Nmap , unix connect () sistem çağrısından sonra adlandırılan bu mod bağlantı taramasını çağırır. Eğer bağlantı açıksa işletim sistemi tcp 3 yollu el sıkışmasını tamamlar ve bağlantı noktası dos saldırısı yapılmasını önlemek amacıyla bağlantıyı hemen kapatır. Aksi halde bir hata kodu döndürülür. Bu tarama modu sayesinde, kullanıcının özel ayrıcalıklara sahip olmasına gerek yoktur. Buna rağmen, işletim sistemi ağ fonksiyonlarını kullanmak düşük seviye kontrolünü önler, bu nedenle bu tarama türü daha az yaygındır.",
+    "source_sentence": "If a port is open, the operating system completes the tcp three-way handshake, and the port scanner immediately closes the connection to avoid performing a denial-of-service attack.",
+    "target_sentence": "Eğer bağlantı açıksa işletim sistemi tcp 3 yollu el sıkışmasını tamamlar ve bağlantı noktası dos saldırısı yapılmasını önlemek amacıyla bağlantıyı hemen kapatır.",
+    "term_pairs": [
+        {
+            "en": "port",
+            "en_start": 5,
+            "en_end": 9,
+            "tr": "bağlantı",
+            "tr_start": 5,
+            "tr_end": 13,
+            "hint": "bağlantı noktası",
+            "correction": "bağlantı noktası"
+        },
+        {
+            "en": "tcp three-way handshake",
+            "en_start": 54,
+            "en_end": 77,
+            "tr": "tcp 3 yollu el sıkışmasını",
+            "tr_start": 37,
+            "tr_end": 63,
+            "hint": "üç yönlü tokalaşma",
+            "correction": "tcp 3 yönlü tokalaşmasını"
+        },
+        {
+            "en": "port scanner",
+            "en_start": 87,
+            "en_end": 99,
+            "tr": "bağlantı noktası",
+            "tr_start": 76,
+            "tr_end": 92,
+            "hint": "bağlantı noktaları tarayıcısı",
+            "correction": "bağlantı noktaları tarayıcısı"
+        }
+    ]
+}
 ----
 
 === Evaluation
@@ -149,16 +147,20 @@ Accuracy is measured on the `correction` field using *Exact Match*.
 
 == Subtask 3 – End-to-End Post-Edit
 
-Here, we are curious how the models would perform end-to-end when given access to terimler.org. The models need not query terimler.org instantly; the offline glossary will be provided in a dictionary format. Here, we will not provide the term boundaries or hints, but only the final translation. Given the source and target paragraphs and sentences; the task is to post-edit the target sentence. The model should fill the edited_target_sentence correctly.
+Here, we are curious how the models would perform end-to-end when given access to https://www.terimler.org[terimler.org]. The models need not query terimler.org instantly; the offline glossary will be provided in a dictionary format. Here, we will not provide the term boundaries or hints, but only the final translation. Given the source and target paragraphs and sentences; the task is to post-edit the target sentence. The model should fill the edited_target_sentence correctly.
 
 === Example
 
 [source,json]
 ----
 {
-  "source_sentence": "We discuss p-branes, plane waves, Kaluza-Klein monopoles, and time-dependent S-brane solutions.",
-  "target_sentence": "Dalgaları, p-branları, Kaluza-Klein monopollerini ve zamana bağlı S-brane çözümlerini tartışacağız.",
-  "edited_target_sentence": "Düzlem dalgaları, p-zarları, Kaluza-Klein monopollerini ve zamana bağlı S-brane çözümlerini tartışacağız."
+    "paragraph_id": 3,
+    "sentence_id": 2,
+    "source_paragraph": "In this thesis we study static and time dependent solutions of supergravity theories. We discuss p-branes, plane waves, Kaluza-Klein monopoles, and time-dependent S-brane solutions. We then proceed to describe the Kaluza-Klein dimensional reduction procedure and discuss how theories in lower dimensions can be obtained from theories in higher dimensions. As the main result of this thesis, we present new solutions of supergravity theories involving intersections of S-branes with plane waves and Kaluza-Klein monopoles. We find that configurations involving intersections of S-branes with waves are restricted in that the wave can be placed only on the transverse space of the S-brane and the transverse space must be flat. We also find that a larger number of configurations involving intersections of S-branes with Kaluza-Klein monopoles exist.",
+    "target_paragraph": "Bu tezde süperçekim kuramlarının zamandan bağımsız ve zamana bağlı çözümlerini inceleyeceğiz. Dalgaları, p-branları, Kaluza-Klein monopollerini ve zamana bağlı S-brane çözümlerini tartışacağız. Bunun ardından Kaluza-Klein boyutsal indirgeme kuramını çalışacağız ve düşük boyutlardaki kuramların bu yolla yüksek boyutlardaki kuramlardan nasıl elde edildiğini göreceğiz. Temel sonuç olarak süperçekim kuramlarının S-branlerinin dalgalarla ve Kaluza-Klein monopolleriyle kesişimlerini içeren yeni çözümlerini sunacağız. Bulgularımız S-branlerinin dalgalarla kesişimlerinde dalganın S-branının sadece dış uzayına yerleştirilebileceğini ve dış uzayın düz seçilmesi gerektiğini gösteriyor. S-branlerinin Kaluza-Klein monopolleriyle kesişimlerinde ise daha fazla sayıda seçeneğin bulunduğunu göstereceğiz.",
+    "source_sentence": "We discuss p-branes, plane waves, Kaluza-Klein monopoles, and time-dependent S-brane solutions.",
+    "target_sentence": "Dalgaları, p-branları, Kaluza-Klein monopollerini ve zamana bağlı S-brane çözümlerini tartışacağız.",
+    "edited_target_sentence": "Düzlem dalgaları, p-zarları, Kaluza-Klein monopollerini ve zamana bağlı S-brane çözümlerini tartışacağız."
 }
 ----
 
@@ -167,10 +169,37 @@ Here, we are curious how the models would perform end-to-end when given access t
 We evaluate post-edit outputs using *chrF* and *COMET* scores (subject to change).
 
 == Evaluation Script and Development Data
-We provide an evaluation script along with development data for all subtasks on our GitHub repository: https://github.com/aligebesce/sigturk2026_sharedtask
+
+We provide an evaluation script along with development data for all subtasks on our GitHub repository:
+https://github.com/aligebesce/sigturk2026_sharedtask[aligebesce/sigturk2026_sharedtask]
 
 == Submission of Model Predictions
-TBA
+
+Before making any submission to Codabench, **each team must first register** via the shared task Google Form:
+https://forms.gle/dRXKuW1GGtN7HwhD8[SIGTURK 2026 Shared Task registration form]
+
+Only registered teams will be considered in the official rankings and in the shared task overview paper.
+
+Test files for all subtasks are available in our GitHub repository (test data directory):
+https://github.com/aligebesce/sigturk2026_sharedtask/tree/main/test_data[test_data on GitHub]
+
+Participants must:
+
+* run their systems on the released test files,
+* collect all predictions into a single JSON file named `predictions.json`,
+* compress this file into a ZIP archive named `predictions.json.zip`, and
+* submit this single `predictions.json.zip` file to the Codabench competition page:
+https://www.codabench.org/competitions/11661/#/pages-tab[Codabench competition page]
+
+Important format requirements:
+
+* You must submit exactly one file named `predictions.json.zip` to Codabench (not a raw `predictions.json` file).
+* The archive `predictions.json.zip` must contain exactly one file named `predictions.json` at the top level (no nested folders, no extra files).
+* The structure of `predictions.json` must match the examples in the `test_data` directory.
+* Each JSON entry must correspond to one test instance.
+* Each entry must include a `task_type` field (for example: `"task_type": "task3"`), and its value must correctly indicate the relevant subtask (`"task1"`, `"task2"`, or `"task3"`), as shown in the provided test data.
+
+Due to Codabench sandboxing, the evaluation code may not have permission to access additional files beyond the uploaded `predictions.json.zip`. Extra files or a different directory layout may cause your submission to fail or receive no score.
 
 == Submission of Papers
 TBA
@@ -200,11 +229,12 @@ Participants must clearly document all models and resources used in their system
 
 == Organizers
 Asst. Prof. Gözde Gül Şahin, Koç University +
-Ali Gebeşçe, Koç University +
-Ege Uğur Amasya , Koç University +
+Ali Gebeşce, Koç University +
+Ege Uğur Amasya, Koç University +
 
 == Contact
-For any questions regarding the shared task, please contact: sigturk2026.sharedtask@gmail.com
+For any questions regarding the shared task, please contact:
+mailto:sigturk2026.sharedtask@gmail.com[sigturk2026.sharedtask@gmail.com]
 
 == Acknowledgements
 This research is supported by the Wikimedia Foundation Research Fund (Grant No. G‐RS‐2402‐15231). We thank Zafer Batık and Başak Tosun of the Wikimedia Community User Group Turkey for introductions to the Turkish Wikipedia community and assistance with our inquiries regarding the Wikimedia Foundation and community; Kızıl of the Wikipedia Turkey Translators Group for connecting us with translators and demonstrating the translation workflow within Turkish Wikipedia; Prof. Bülent Sankur of terimler.org for insights on technical translations and for facilitating connections with academics who contributed to terminology decisions; and Gizem Ekiz for invaluable help organizing project events and coordinating communication among academics and Wikipedians.
