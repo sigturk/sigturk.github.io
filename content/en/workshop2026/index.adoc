@@ -71,17 +71,22 @@ syntax, semantics). +
 * Cross-lingual transfer between Turkic languages or from/to
 high-resource languages.
 
-The workshop will also host a shared task on *Terminology-Aware Machine Translation for English–Turkish Scientific Texts*.
-Details can be found on the link:/sharedtask2026[Shared Task] page.
+The workshop will also host a shared task on *Terminology-Aware Machine
+Translation for English–Turkish Scientific Texts*. Details can be found on the
+link:/sharedtask2026[Shared Task] page.
 
 === Submissions
 
-We invite novel research contributions as long papers following the EACL
-2026 long paper format (anonymized with 8 pages excluding references and
-an additional page for the camera-ready versions for the accepted
-papers), and shared task system descriptions (4-6 pages excluding
-references). Submissions should use the ACL Paper Styles available at
-https://github.com/acl-org/acl-style-files (Latex and Word).
+We invite novel contributions in the form of research papers (up to 8 pages,
+excl. references) and shared task system descriptions (4-6 pages, excl. references).
+
+We also invite research paper contributions shorter than 8 pages
+but make no specific distinction between long and short papers.
+
+Accepted research papers will also have an additional page for the camera-ready version.
+
+All submissions regardless of type should use the https://github.com/acl-org/acl-style-files[ACL Paper Styles available] (Latex
+and Word). Research paper submissions should also be anonymized according to the EACL 2026 paper format.
 
 We will accept either direct submissions through our own submission
 page, or submissions to the general ACL Rolling Review. Direct
