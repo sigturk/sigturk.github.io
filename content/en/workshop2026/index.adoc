@@ -4,6 +4,7 @@ description: "The Second Workshop on Natural Language Processing for Turkic Lang
 draft: false
 toc: true
 images: []
+aliases: ["/workshop"]
 contributors: []
 ---
 
