@@ -4,6 +4,7 @@ description: "The Second Workshop on Natural Language Processing for Turkic Lang
 draft: false
 toc: true
 images: []
+aliases: ["/workshop/"]
 contributors: []
 ---
 
@@ -15,7 +16,8 @@ The Second Workshop on +
 At EACL 2026
 
 Rabat, Morocco +
-March 28-29, 2026footnote:[Exact slot TBD.]
+March 29, 2026
+9 am - 12:30 pm
 
 == Introduction
 
