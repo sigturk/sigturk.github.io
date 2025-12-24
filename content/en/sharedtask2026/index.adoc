@@ -220,9 +220,9 @@ Participants must clearly document all models and resources used in their system
 | Event | Date (AoE)
 | Task details and dev data release | October 27, 2025
 | Test data release / submissions open | November 8, 2025
-| Submission deadline | December 15, 2025
-| Evaluation completed | January 2, 2026
-| System paper deadline | January 2, 2026
+| Submission deadline | December 31, 2025
+| Evaluation completed | January 10, 2026
+| System paper deadline | January 10, 2026
 | Notification of acceptance | January 23, 2026
 | Camera-ready papers due | February 3, 2026
 |===
