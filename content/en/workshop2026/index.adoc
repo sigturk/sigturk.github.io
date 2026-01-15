@@ -122,6 +122,7 @@ Gözde Gül Şahin - Koç University, Turkey (Shared-Task Chair)
 *Program Committee (confirmed):*
 
 *Emre Can Açıkgöz*, University of Illinois Urbana-Champaign +
+*Ilseyar Alimova*, Skoltech +
 *Mehmet Fatih Amasyalı*, Yıldız Technical University +
 *İnanç Arın*, Sabancı University +
 *Nimet Beyza Bozdağ*, University of Illinois Urbana-Champaign +
