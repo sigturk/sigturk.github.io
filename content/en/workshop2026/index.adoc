@@ -19,6 +19,10 @@ Rabat, Morocco +
 March 29, 2026
 9 am - 12:30 pm
 
+=== Accepted papers
+
+The accepted papers can be found here: link:/workshop/accepted-papers/[Accepted Papers]
+
 == Introduction
 
 We are excited to announce the Second Meeting of the ACL Special
