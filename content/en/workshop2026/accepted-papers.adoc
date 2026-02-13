@@ -1,0 +1,13 @@
+---
+title: "SIGTURK 2026 Workshop - Accepted papers"
+description: "Accepted papers at The Second Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2026)"
+draft: false
+toc: true
+images: []
+aliases: ["/workshop/accepted-papers/"]
+contributors: []
+---
+
+== Accepted papers
+
+TODO
