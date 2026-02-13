@@ -8,8 +8,6 @@ aliases: ["/workshop/accepted-papers/"]
 contributors: []
 ---
 
-== Accepted papers
-
 1. SindBERT, the Sailor: Charting the Seas of Turkish NLP +
 *Raphael Schmitt, Stefan Schweter*
 
