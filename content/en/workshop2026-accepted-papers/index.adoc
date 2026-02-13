@@ -11,61 +11,81 @@ contributors: []
 == Accepted papers
 
 1. SindBERT, the Sailor: Charting the Seas of Turkish NLP
+
 *Raphael Schmitt, Stefan Schweter*
 
 3. Directed Attention is All You Need: Profiling Style from Limited Text Data
+
 *Hüseyin Emir Akdağ*
 
 5. TUNE: A Task For Turkish Machine Unlearning For Data Privacy
+
 *Doruk Benli, Ada Canoğlu, Nehir İlkim Gönençer, Dilara Keküllüoğlu*
 
 7. A Unified Turkic Idiom Understanding Benchmark: Idiom Detection and Semantic Retrieval Across Five Turkic Languages
+
 *Gözde Aslantaş, Tunga Gungor*
 
 8. TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization
+
 *Figen Eğin, Aytuğ Onan*
 
 10. SarcasTürk: Turkish Context-Aware Sarcasm Detection Dataset
+
 *Niyazi Ahmet Metin, Sevde Yılmaz, Osman Enes Erdoğdu, Elif Sude Meydan, Oğul Sümer, Dilara Keküllüoğlu*
 
 13. Language Matters: Target-Language Supervision for Political Bias Detection in Turkish News
+
 *Umut Ozbagriacik, Haim Dubossarsky*
 
 14. Modelling the Morphology of Verbal Paradigms: A Case Study in the Tokenization of Turkish and Hebrew
+
 *Giuseppe Samo, Paola Merlo*
 
 17. A Morphology-Aware Evaluation of Turkish Syntax in Large Language Models
+
 *Ezgi Başar, Arianna Bisazza*
 
 18. Benchmarking Hate Speech Detection in Azerbaijani with Turkish Cross-Lingual Transfer and Transformer Models
+
 *Tural Alizada, Haim Dubossarsky*
 
 19. When Semantic Overlap Is Not Enough: Cross-Lingual Euphemism Transfer Between Turkish and English
+
 *Hasan Can Biyik, Libby Barak, Jing Peng, Anna Feldman*
 
 20. TurkBench: A Benchmark for Evaluating Turkish Large Language Models
+
 *Cagri Toraman, Ahmet Kaan Sever, Ayşe Aysu Cengiz, Elif Ecem Arslan, Görkem Sevinç, Sarp Kantar, Mete Mert Birdal, Yusuf Faruk Güldemir, Ali Buğra Kanburoğlu, Sezen Felekoğlu, Birsen Şahin Kütük, Büşra Tufan, Elif Genç, Serkan Coşkun, Gupse Ekin Demir, Muhammed Emin Arayıcı, Olgun Dursun, Onur Gungor, Susan Üsküdarlı, Abdullah Topraksoy, Esra Darıcı*
 
 21. BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish
+
 *Burak Aktaş, Mehmet Can Baytekin, Süha Kağan Köse, Ömer İlbilgi, Elif Özge Yılmaz, Cagri Toraman, Bilge Kaan Görür*
 
 22. Tokenisation of Turkic Copula Constructions in Universal Dependencies
+
 *Cagri Coltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Sardana Ivanova, Gulnura Dzhumalieva, Aida Kasieva, Nikolett Mus, Jonathan Washington*
 
 23. RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish
+
 *Süha Kağan Köse, Mehmet Can Baytekin, Burak Aktaş, Bilge Kaan Görür, Evren Ayberk Munis, Deniz Yılmaz, Muhammed Yusuf Kartal, Cagri Toraman*
 
 24. OCRTurk: A Comprehensive OCR Benchmark for Turkish
+
 *Deniz Yılmaz, Evren Ayberk Munis, Cagri Toraman, Süha Kağan Köse, Burak Aktaş, Mehmet Can Baytekin, Bilge Kaan Görür*
 
 25. Building a Turkish Large Language Model via Continual Pre-Training and Parameter-Efficient Adaptation
+
 *Alperen Enes Bayar, Mert Ege, Gökhan Yurtalan, Alper Karamanlioglu, Berkan Demirel, Ramazan Gokberk Cinbis*
 
 26. From Lemmas to Dependencies: What Signals Drive Light Verbs Classification?
+
 *Sercan Karakas, Yusuf Şimşek*
 
 27. Beyond the Token: Correcting the Tokenization Bias in XAI via Morphologically-Aligned Projection
+
 *Muhammet Anil Yagiz, Fahrettin Horasan*
 
 28. Overview of the SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts
+
 *Ali Gebeşçe, Abdulfattah Safa, Ege Uğur Amasya, Gözde Gül Şahin*
