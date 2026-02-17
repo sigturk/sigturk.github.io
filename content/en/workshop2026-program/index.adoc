@@ -10,6 +10,8 @@ contributors: []
 
 === Sunday, March 29, 2026
 
+_Note: All oral session presenters are also welcome to present at the poster session._
+
 [cols="1,4"]
 |===
 | Time | Session
