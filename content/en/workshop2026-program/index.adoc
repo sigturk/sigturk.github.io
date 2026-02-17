@@ -17,7 +17,7 @@ contributors: []
 | 09:00 - 09:15
 | **Opening Remarks**
 
-| 09:15 - 10:30
+| 09:15 - 10:00
 a| **Session 1**
 
 * *SindBERT, the Sailor: Charting the Seas of Turkish NLP* +
@@ -29,16 +29,14 @@ _Alperen Enes Bayar, Mert Ege, Gökhan Yurtalan, Alper Karamanlioglu, Berkan Dem
 * *When Semantic Overlap Is Not Enough: Cross-Lingual Euphemism Transfer Between Turkish and English* +
 _Hasan Can Biyik, Libby Barak, Jing Peng, Anna Feldman_
 
-* *BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish* +
-_Burak Aktaş, Mehmet Can Baytekin, Süha Kağan Köse, Ömer İlbilgi, Elif Özge Yılmaz, Cagri Toraman, Bilge Kaan Görür_
+| 10:00 - 10:45
+| **Invited Talk** +
+_Mirac Suzgun, Stanford University_
 
-* *Overview of the SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts* +
-_Ali Gebeşçe, Abdulfattah Safa, Ege Uğur Amasya, Gözde Gül Şahin_
-
-| 10:30 - 11:00
+| 10:45 - 11:00
 | **Coffee Break**
 
-| 11:00 - 12:00
+| 11:00 - 12:30
 a| **Session 2**
 
 * *TUNE: A Task For Turkish Machine Unlearning For Data Privacy* +
@@ -53,7 +51,13 @@ _Giuseppe Samo, Paola Merlo_
 * *Beyond the Token: Correcting the Tokenization Bias in XAI via Morphologically-Aligned Projection* +
 _Muhammet Anil Yagiz, Fahrettin Horasan_
 
-| 14:00 - 17:00
+* *BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish* +
+_Burak Aktaş, Mehmet Can Baytekin, Süha Kağan Köse, Ömer İlbilgi, Elif Özge Yılmaz, Cagri Toraman, Bilge Kaan Görür_
+
+* *Overview of the SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts* +
+_Ali Gebeşçe, Abdulfattah Safa, Ege Uğur Amasya, Gözde Gül Şahin_
+
+| 14:00 - 15:30
 a| **Poster Session**
 
 * *TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization* +
@@ -63,7 +67,7 @@ _Figen Eğin, Aytuğ Onan_
 _Niyazi Ahmet Metin, Sevde Yılmaz, Osman Enes Erdoğdu, Elif Sude Meydan, Oğul Sümer, Dilara Keküllüoğlu_
 
 * *RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish* +
-_Süha Kağan Köse, Can Baytekin, Burak Aktaş, Kaan Görür, Evren Ayberk Munis, Deniz Yılmaz, Muhammed Yusuf Kartal, Cagri Toraman_
+_Süha Kağan Köse, Mehmet Can Baytekin, Burak Aktaş, Bilge Kaan Görür, Evren Ayberk Munis, Deniz Yılmaz, Muhammed Yusuf Kartal, Cagri Toraman_
 
 * *A Morphology-Aware Evaluation of Turkish Syntax in Large Language Models* +
 _Ezgi Başar, Arianna Bisazza_
@@ -89,4 +93,3 @@ _Hüseyin Emir Akdağ_
 * *Tokenisation of Turkic Copula Constructions in Universal Dependencies* +
 _Cagri Coltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Sardana Ivanova, Gulnura Dzhumalieva, Aida Kasieva, Nikolett Mus, Jonathan Washington_
 |===
-
