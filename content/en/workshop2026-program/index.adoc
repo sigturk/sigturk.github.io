@@ -8,6 +8,46 @@ aliases: ["/workshop/program/"]
 contributors: []
 ---
 
+[cols="1,4"]
+|===
+| Time | Session
+
+| 09:00 - 09:15
+| **Opening Remarks**
+
+| 09:15 - 10:30
+| **Session 1**
+* _SindBERT, the Sailor: Charting the Seas of Turkish NLP_
+* _Building a Turkish Large Language Model via Continual Pre-Training and Parameter-Efficient Adaptation_
+* _When Semantic Overlap Is Not Enough: Cross-Lingual Euphemism Transfer Between Turkish and English_
+* _BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish_
+* _Overview of the SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts_
+
+| 10:30 - 11:00
+| **Coffee Break**
+
+| 11:00 - 12:00
+| **Session 2**
+* _TUNE: A Task For Turkish Machine Unlearning For Data Privacy_
+* _TurkBench: A Benchmark for Evaluating Turkish Large Language Models_
+* _Modelling the Morphology of Verbal Paradigms: A Case Study in the Tokenization of Turkish and Hebrew_
+* _Beyond the Token: Correcting the Tokenization Bias in XAI via Morphologically-Aligned Projection_
+
+| 14:00 - 17:00
+| **Poster Session**
+* _TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization_
+* _SarcasTürk: Turkish Context-Aware Sarcasm Detection Dataset_
+* _RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish_
+* _A Morphology-Aware Evaluation of Turkish Syntax in Large Language Models_
+* _OCRTurk: A Comprehensive OCR Benchmark for Turkish_
+* _A Unified Turkic Idiom Understanding Benchmark: Idiom Detection and Semantic Retrieval Across Five Turkic Languages_
+* _Language Matters: Target-Language Supervision for Political Bias Detection in Turkish News_
+* _Benchmarking Hate Speech Detection in Azerbaijani with Turkish Cross-Lingual Transfer and Transformer Models_
+* _From Lemmas to Dependencies: What Signals Drive Light Verbs Classification?_
+* _Directed Attention is All You Need: Profiling Style from Limited Text Data_
+* _Tokenisation of Turkic Copula Constructions in Universal Dependencies_
+|===
+
 === Sunday, March 29, 2026
 
 ==== 09:00 - 09:15 Opening Remarks
