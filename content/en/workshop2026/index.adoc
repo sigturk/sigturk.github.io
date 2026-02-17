@@ -8,8 +8,6 @@ aliases: ["/workshop/"]
 contributors: []
 ---
 
-== Call for Papers
-
 SIGTURK— +
 The Second Workshop on +
 *Natural Language Processing for Turkic Languages* +
@@ -19,9 +17,36 @@ Rabat, Morocco +
 March 29, 2026
 9 am - 12:30 pm
 
+=== Program
+
+[cols="1,3"]
+|===
+| Time | Session
+
+| 09:00 - 09:15
+| Opening Remarks
+
+| 09:15 - 10:30
+| Session 1
+
+| 10:30 - 11:00
+| Coffee Break
+
+| 11:00 - 12:00
+| Session 2
+
+| 14:00 - 17:00
+| Poster Session
+|===
+
+
+The full workshop program can be found here: link:/workshop/program/[Workshop Program]
+
 === Accepted papers
 
 The accepted papers can be found here: link:/workshop/accepted-papers/[Accepted Papers]
+
+== Call for Papers
 
 == Introduction
 
