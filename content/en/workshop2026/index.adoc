@@ -43,8 +43,9 @@ _Mirac Suzgun, Stanford University_
 | **Poster Session**
 |===
 
-
 The full workshop program can be found here: link:/workshop/program/[Workshop Program]
+
+_Note: All oral session presenters are also welcome to present at the poster session._
 
 === Accepted papers
 
