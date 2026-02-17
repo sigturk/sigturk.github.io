@@ -8,11 +8,11 @@ aliases: ["/workshop/program/"]
 contributors: []
 ---
 
-== Sunday, March 29, 2026
+=== Sunday, March 29, 2026
 
-=== 09:00 - 09:15 Opening Remarks
+==== 09:00 - 09:15 Opening Remarks
 
-=== 09:15 - 10:30 Session 1
+==== 09:15 - 10:30 Session 1
 
 SindBERT, the Sailor: Charting the Seas of Turkish NLP +
 *Raphael Schmitt, Stefan Schweter*
@@ -29,9 +29,9 @@ BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish +
 Overview of the SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts +
 *Ali Gebeşçe, Abdulfattah Safa, Ege Uğur Amasya, Gözde Gül Şahin*
 
-=== 10:30 - 11:00 Coffee Break
+==== 10:30 - 11:00 Coffee Break
 
-=== 11:00 - 12:00 Session 2
+==== 11:00 - 12:00 Session 2
 
 TUNE: A Task For Turkish Machine Unlearning For Data Privacy +
 *Doruk Benli, Ada Canoğlu, Nehir İlkim Gönençer, Dilara Keküllüoğlu*
@@ -45,7 +45,7 @@ Modelling the Morphology of Verbal Paradigms: A Case Study in the Tokenization o
 Beyond the Token: Correcting the Tokenization Bias in XAI via Morphologically-Aligned Projection +
 *Muhammet Anil Yagiz, Fahrettin Horasan*
 
-=== 14:00 - 17:00 Poster Session
+==== 14:00 - 17:00 Poster Session
 
 TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization +
 *Figen Eğin, Aytuğ Onan*
