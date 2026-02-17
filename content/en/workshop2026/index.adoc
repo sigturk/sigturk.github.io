@@ -24,19 +24,23 @@ March 29, 2026
 | Time | Session
 
 | 09:00 - 09:15
-| Opening Remarks
+| **Opening Remarks**
 
-| 09:15 - 10:30
-| Session 1
+| 09:15 - 10:00
+| **Session 1**
 
-| 10:30 - 11:00
-| Coffee Break
+| 10:00 - 10:45
+| **Invited Talk** +
+_Mirac Suzgun, Stanford University_
 
-| 11:00 - 12:00
-| Session 2
+| 10:45 - 11:00
+| **Coffee Break**
 
-| 14:00 - 17:00
-| Poster Session
+| 11:00 - 12:30
+| **Session 2**
+
+| 14:00 - 15:30
+| **Poster Session**
 |===
 
 
