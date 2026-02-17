@@ -1,0 +1,81 @@
+---
+title: "SIGTURK 2026 Workshop - Program"
+description: "Schedule for The Second Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2026)"
+draft: false
+toc: true
+images: []
+aliases: ["/workshop/program/"]
+contributors: []
+---
+
+== Sunday, March 29, 2026
+
+=== 09:00 - 09:15 Opening Remarks
+
+=== 09:15 - 10:30 Session 1
+
+SindBERT, the Sailor: Charting the Seas of Turkish NLP +
+*Raphael Schmitt, Stefan Schweter*
+
+Building a Turkish Large Language Model via Continual Pre-Training and Parameter-Efficient Adaptation +
+*Alperen Enes Bayar, Mert Ege, Gökhan Yurtalan, Alper Karamanlioglu, Berkan Demirel, Ramazan Gokberk Cinbis*
+
+When Semantic Overlap Is Not Enough: Cross-Lingual Euphemism Transfer Between Turkish and English +
+*Hasan Can Biyik, Libby Barak, Jing Peng, Anna Feldman*
+
+BIRDTurk: Adaptation of the BIRD Text-to-SQL Dataset to Turkish +
+*Burak Aktaş, Mehmet Can Baytekin, Süha Kağan Köse, Ömer İlbilgi, Elif Özge Yılmaz, Cagri Toraman, Bilge Kaan Görür*
+
+Overview of the SIGTURK 2026 Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts +
+*Ali Gebeşçe, Abdulfattah Safa, Ege Uğur Amasya, Gözde Gül Şahin*
+
+=== 10:30 - 11:00 Coffee Break
+
+=== 11:00 - 12:00 Session 2
+
+TUNE: A Task For Turkish Machine Unlearning For Data Privacy +
+*Doruk Benli, Ada Canoğlu, Nehir İlkim Gönençer, Dilara Keküllüoğlu*
+
+TurkBench: A Benchmark for Evaluating Turkish Large Language Models +
+*Cagri Toraman, Ahmet Kaan Sever, Ayşe Aysu Cengiz, Elif Ecem Arslan, Görkem Sevinç, Sarp Kantar, Mete Mert Birdal, Yusuf Faruk Güldemir, Ali Buğra Kanburoğlu, Sezen Felekoğlu, Birsen Şahin Kütük, Büşra Tufan, Elif Genç, Serkan Coşkun, Gupse Ekin Demir, Muhammed Emin Arayıcı, Olgun Dursun, Onur Gungor, Susan Üsküdarlı, Abdullah Topraksoy, Esra Darıcı*
+
+Modelling the Morphology of Verbal Paradigms: A Case Study in the Tokenization of Turkish and Hebrew +
+*Giuseppe Samo, Paola Merlo*
+
+Beyond the Token: Correcting the Tokenization Bias in XAI via Morphologically-Aligned Projection +
+*Muhammet Anil Yagiz, Fahrettin Horasan*
+
+=== 14:00 - 17:00 Poster Session
+
+TR-EduVSum: A Turkish-Focused Dataset and Consensus Framework for Educational Video Summarization +
+*Figen Eğin, Aytuğ Onan*
+
+SarcasTürk: Turkish Context-Aware Sarcasm Detection Dataset +
+*Niyazi Ahmet Metin, Sevde Yılmaz, Osman Enes Erdoğdu, Elif Sude Meydan, Oğul Sümer, Dilara Keküllüoğlu*
+
+RAGTurk: Best Practices for Retrieval Augmented Generation in Turkish +
+*Süha Kağan Köse, Can Baytekin, Burak Aktaş, Kaan Görür, Evren Ayberk Munis, Deniz Yılmaz, Muhammed Yusuf Kartal, Cagri Toraman*
+
+A Morphology-Aware Evaluation of Turkish Syntax in Large Language Models +
+*Ezgi Başar, Arianna Bisazza*
+
+OCRTurk: A Comprehensive OCR Benchmark for Turkish +
+*Deniz Yılmaz, Evren Ayberk Munis, Cagri Toraman, Süha Kağan Köse, Burak Aktaş, Mehmet Can Baytekin, Bilge Kaan Görür*
+
+A Unified Turkic Idiom Understanding Benchmark: Idiom Detection and Semantic Retrieval Across Five Turkic Languages +
+*Gözde Aslantaş, Tunga Gungor*
+
+Language Matters: Target-Language Supervision for Political Bias Detection in Turkish News +
+*Umut Ozbagriacik, Haim Dubossarsky*
+
+Benchmarking Hate Speech Detection in Azerbaijani with Turkish Cross-Lingual Transfer and Transformer Models +
+*Tural Alizada, Haim Dubossarsky*
+
+From Lemmas to Dependencies: What Signals Drive Light Verbs Classification? +
+*Sercan Karakas, Yusuf Şimşek*
+
+Directed Attention is All You Need: Profiling Style from Limited Text Data +
+*Hüseyin Emir Akdağ*
+
+Tokenisation of Turkic Copula Constructions in Universal Dependencies +
+*Cagri Coltekin, Furkan Akkurt, Bermet Chontaeva, Soudabeh Eslami, Sardana Ivanova, Gulnura Dzhumalieva, Aida Kasieva, Nikolett Mus, Jonathan Washington*

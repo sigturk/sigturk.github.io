@@ -19,6 +19,10 @@ Rabat, Morocco +
 March 29, 2026
 9 am - 12:30 pm
 
+=== Program
+
+The workshop program can be found here: link:/workshop/program/[Workshop Program]
+
 === Accepted papers
 
 The accepted papers can be found here: link:/workshop/accepted-papers/[Accepted Papers]
