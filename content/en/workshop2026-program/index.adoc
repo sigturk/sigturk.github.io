@@ -32,8 +32,12 @@ _Alperen Enes Bayar, Mert Ege, Gökhan Yurtalan, Alper Karamanlioglu, Berkan Dem
 _Hasan Can Biyik, Libby Barak, Jing Peng, Anna Feldman_
 
 | 10:00 - 10:45
-| **Invited Talk** +
+a| **Invited Talk** +
 _Mirac Suzgun, Stanford University_
+
+> **Title:** _Distinguishing Fact from Belief: Epistemic Reasoning Limitations in LLMs from English to Turkish_
+
+> **Abstract:** Can large language models tell the difference between what is known and what is merely believed? As AI chatbots are increasingly deployed in high-stakes domains such as medicine, law, journalism, and education, making this fundamental distinction has become essential. This talk examines the epistemic capabilities and limitations of modern language models through the lens of KaBLE, a comprehensive benchmark comprising 13,000 questions across thirteen tasks involving belief, knowledge, and factual statements. Our evaluations reveal a striking epistemic fragility: models systematically fail when processing first-person false beliefs, exhibit a severe attribution bias favoring third-party statements over user inputs, and struggle to consistently apply the factive nature of knowledge. Because these models are highly sensitive to subtle linguistic variations in English, a critical question arises regarding how these vulnerabilities translate to morphologically rich languages. Finally, I will extend this discussion across linguistic boundaries, offering an exclusive first look at our ongoing research into epistemic reasoning capabilities in Turkish and broader multilingual settings.
 
 | 10:45 - 11:00
 | **Coffee Break**
