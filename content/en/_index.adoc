@@ -19,10 +19,7 @@ SIGTURK is the ACL Special Interest Group on Turkic Languages and aims to bring 
 *The workshop proceedings are now available on the https://aclanthology.org/2026.sigturk-1.0[ACL Anthology].*
 
 We are excited to announce our second SIGTURK Workshop!
-Click on the poster below or see the link:/workshop2026[Call for Papers] and link:/sharedtask2026[Shared Task] pages for more informaiton.
-
-[link=/workshop2026]
-image::sigturk-workshop-poster.jpg[SIGTURK 2026 Workshop Poster,height=600]
+See the link:/workshop2026[Call for Papers] and link:/sharedtask2026[Shared Task] pages for more informaiton.
 
 === Workshop 2024
 

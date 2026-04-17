@@ -17,6 +17,8 @@ Rabat, Morocco +
 March 29, 2026
 9 am - 12:30 pm
 
+image::sigturk-workshop-poster.jpg[SIGTURK 2026 Workshop Poster,width=600]
+
 === Proceedings
 
 The workshop proceedings are now available on the https://aclanthology.org/2026.sigturk-1.0[ACL Anthology].
