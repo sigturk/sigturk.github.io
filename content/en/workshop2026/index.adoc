@@ -7,6 +7,8 @@ images: []
 aliases: ["/workshop/"]
 contributors: []
 ---
+:imagesoutdir: static
+:imagesdir: /assets/img
 
 SIGTURK— +
 The Second Workshop on +
