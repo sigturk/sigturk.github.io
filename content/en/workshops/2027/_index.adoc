@@ -1,0 +1,55 @@
+---
+title: "SIGTURK 2027 Workshop"
+description: "The Third Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2027)"
+draft: false
+toc: true
+images: []
+contributors: []
+---
+
+// PLACEHOLDER: this page is a stub. Replace the "To be announced" sections
+// with the workshop details and call for papers. See ../2026/_index.adoc for
+// the structure used last time.
+
+SIGTURK— +
+The Third Workshop on +
+*Natural Language Processing for Turkic Languages* +
+At ACL 2027
+
+Kyoto, Japan +
+August 18 or 19, 2027 (exact date to be confirmed)
+
+The workshop will also host a shared task. See the
+link:/workshops/2027/shared-task/[Shared Task] page for details.
+
+== Call for Papers
+
+_The call for papers will be announced soon._
+
+== Introduction
+
+_To be announced._
+
+== Important Dates
+
+_To be announced._
+
+== Topics of interest
+
+_To be announced._
+
+=== Submissions
+
+_To be announced._
+
+=== Event details and registration
+
+_To be announced._
+
+=== Organizers
+
+_To be announced._
+
+== More information
+
+_To be announced._
