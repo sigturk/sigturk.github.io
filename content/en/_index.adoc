@@ -14,18 +14,5 @@ SIGTURK is the ACL Special Interest Group on Turkic Languages and aims to bring 
 
 == Workshops
 
-=== Workshop 2026
-
-*The workshop proceedings are available on the https://aclanthology.org/2026.sigturk-1.0[ACL Anthology].*
-
-The second SIGTURK workshop took place on March 29, 2026 in Rabat, Morocco and was co-located with https://2026.eacl.org/[EACL 2026].
-
-See the link:/workshops/2026/[Call for Papers] and link:/workshops/2026/shared-task/[Shared Task] pages for more informaiton.
-
-=== Workshop 2024
-
-*The workshop proceedings are available on the https://aclanthology.org/volumes/2024.sigturk-1/[ACL Anthology].*
-
-The first SIGTURK workshop took place on August 15, 2024 in Bangkok, Thailand and was co-located with https://2024.aclweb.org/[ACL 2024].
-
-See the link:/workshops/2024/[workshop page] for more informaiton.
+SIGTURK organizes a workshop series on Natural Language Processing for Turkic Languages, co-located with major *ACL conferences.
+See the link:/workshops/[Workshops] page for all editions, their shared tasks and proceedings.
