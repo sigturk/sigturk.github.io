@@ -4,7 +4,7 @@ description: "The Second Workshop on Natural Language Processing for Turkic Lang
 draft: false
 toc: true
 images: []
-aliases: ["/workshop/"]
+aliases: ["/workshop2026/"]
 contributors: []
 ---
 :imagesoutdir: static
@@ -55,7 +55,7 @@ _Mirac Suzgun, Stanford University_
 | **Poster Session**
 |===
 
-The full workshop program can be found here: link:/workshop/program/[Workshop Program]
+The full workshop program can be found here: link:/workshops/2026/program/[Workshop Program]
 
 _Note: All oral session presenters are also welcome to present at the poster session._
 
@@ -70,7 +70,7 @@ _Note: All oral session presenters are also welcome to present at the poster ses
 
 === Accepted papers
 
-The accepted papers can be found here: link:/workshop/accepted-papers/[Accepted Papers]
+The accepted papers can be found here: link:/workshops/2026/accepted-papers/[Accepted Papers]
 
 == Call for Papers
 
@@ -130,7 +130,7 @@ high-resource languages.
 
 The workshop will also host a shared task on *Terminology-Aware Machine
 Translation for English–Turkish Scientific Texts*. Details can be found on the
-link:/sharedtask2026[Shared Task] page.
+link:/workshops/2026/shared-task/[Shared Task] page.
 
 === Submissions
 

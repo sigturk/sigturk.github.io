@@ -1,0 +1,31 @@
+---
+title: "Workshops"
+description: "Workshops on Natural Language Processing for Turkic Languages organized by SIGTURK"
+draft: false
+toc: false
+images: []
+aliases: ["/workshop/"]
+contributors: []
+---
+
+SIGTURK organizes a workshop series on Natural Language Processing for Turkic
+Languages, co-located with major ACL conferences. The workshops bring together
+researchers working on computational linguistics for Turkic languages. Below
+you can find the pages, shared tasks and published proceedings of each edition.
+
+== SIGTURK 2026
+
+The Second Workshop on Natural Language Processing for Turkic Languages +
+March 29, 2026 · Rabat, Morocco · Co-located with EACL 2026
+
+* link:/workshops/2026/[Workshop page]
+* link:/workshops/2026/shared-task/[Shared Task: Terminology-Aware Machine Translation for English–Turkish Scientific Texts]
+* https://aclanthology.org/2026.sigturk-1.0[Proceedings on the ACL Anthology]
+
+== SIGTURK 2024
+
+The First Workshop on Natural Language Processing for Turkic Languages +
+August 15, 2024 · Bangkok, Thailand · Co-located with ACL 2024
+
+* link:/workshops/2024/[Workshop page]
+* https://aclanthology.org/volumes/2024.sigturk-1/[Proceedings on the ACL Anthology]
