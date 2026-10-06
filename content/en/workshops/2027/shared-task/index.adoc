@@ -1,0 +1,43 @@
+---
+title: "Shared Task at SIGTURK 2027 Workshop"
+description: "Shared Task"
+draft: false
+toc: true
+images: []
+contributors: []
+---
+
+// PLACEHOLDER: this page is a stub. Replace the "To be announced" sections
+// with the shared task description. See ../../2026/shared-task/index.adoc
+// for the structure used last time.
+
+The SIGTURK 2027 workshop at ACL 2027 in Kyoto, Japan will host a shared task.
+Details will be announced soon.
+
+== Task Description
+
+_To be announced._
+
+== Data
+
+_To be announced._
+
+== Evaluation
+
+_To be announced._
+
+== Submission
+
+_To be announced._
+
+== Important Dates
+
+_To be announced._
+
+== Organizers
+
+_To be announced._
+
+== Contact
+
+_To be announced._
