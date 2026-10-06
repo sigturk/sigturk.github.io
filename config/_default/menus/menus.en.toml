@@ -9,20 +9,36 @@
   weight = 20
 
 [[main]]
-  name = "Constitution"
-  url = "/constitution/"
+  name = "Workshops"
+  url = "/workshops/"
   weight = 30
 
 [[main]]
-  name = "Code of Ethics and Conduct"
-  url = "/coec/"
+  name = "Contact"
+  url = "/contact/"
   weight = 40
-
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 55
+  weight = 50
+
+[[main]]
+  name = "Misc"
+  identifier = "misc"
+  weight = 60
+
+[[main]]
+  name = "Code of Ethics and Conduct"
+  url = "/coec/"
+  parent = "misc"
+  weight = 10
+
+[[main]]
+  name = "Constitution"
+  url = "/constitution/"
+  parent = "misc"
+  weight = 20
 
 # [[main]]
 #   name = "News"
@@ -33,16 +49,6 @@
 #   name = "Projects"
 #   url = "/projects/"
 #   weight = 60
-
-[[main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 70
-
-[[main]]
-  name = "Workshops"
-  url = "/workshops/"
-  weight = 80
 
 [[social]]
   name = "GitHub"
