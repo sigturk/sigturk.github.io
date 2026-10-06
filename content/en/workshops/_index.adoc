@@ -9,7 +9,7 @@ contributors: []
 ---
 
 SIGTURK organizes a workshop series on Natural Language Processing for Turkic
-Languages, co-located with major ACL conferences. The workshops bring together
+Languages, co-located with major \*ACL conferences. The workshops bring together
 researchers working on computational linguistics for Turkic languages. Below
 you can find the pages, shared tasks and published proceedings of each edition.
 
