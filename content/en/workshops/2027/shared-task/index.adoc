@@ -102,8 +102,8 @@ The dates below are the current estimated schedule. Remaining dates will be adde
 == Organizers
 
 Asst. Prof. Çağrı Toraman, Middle East Technical University +
-Ruşen Birben +
-Ayberk Munis
+Ruşen Birben, Independent Researcher +
+Evren Ayberk Munis, Politecnico di Torino
 
 == Contact
 
