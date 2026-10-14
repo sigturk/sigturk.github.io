@@ -19,7 +19,7 @@ The Third Workshop on Natural Language Processing for Turkic Languages +
 August 18 or 19, 2027 (to be confirmed) · Kyoto, Japan · Co-located with ACL 2027
 
 * link:/workshops/2027/[Workshop page]
-* link:/workshops/2027/shared-task/[Shared Task]
+* link:/workshops/2027/shared-task/[Shared Task: Culture and Understanding across Turkic Languages]
 * Proceedings on the ACL Anthology (forthcoming)
 
 == SIGTURK 2026
