@@ -4,6 +4,7 @@ description: "The First Workshop on Natural Language Processing for Turkic Langu
 draft: false
 toc: true
 images: []
+aliases: ["/workshop2024/"]
 contributors: []
 ---
 

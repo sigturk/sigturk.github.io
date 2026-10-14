@@ -4,6 +4,7 @@ description: "Shared Task"
 draft: false
 toc: true
 images: []
+aliases: ["/sharedtask2026/"]
 contributors: []
 ---
 

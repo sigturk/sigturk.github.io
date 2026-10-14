@@ -4,7 +4,7 @@ description: "Schedule for The Second Workshop on Natural Language Processing fo
 draft: false
 toc: true
 images: []
-aliases: ["/workshop/program/"]
+aliases: ["/workshop2026-program/"]
 contributors: []
 ---
 

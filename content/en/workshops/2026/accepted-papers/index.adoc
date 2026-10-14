@@ -4,7 +4,7 @@ description: "Accepted papers at The Second Workshop on Natural Language Process
 draft: false
 toc: true
 images: []
-aliases: ["/workshop/accepted-papers/"]
+aliases: ["/workshop2026-accepted-papers/"]
 contributors: []
 ---
 
