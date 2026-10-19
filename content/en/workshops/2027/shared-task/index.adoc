@@ -103,7 +103,8 @@ The dates below are the current estimated schedule. Remaining dates will be adde
 
 Çağrı Toraman, Middle East Technical University +
 Ruşen Birben, Independent Researcher +
-Evren Ayberk Munis, Politecnico di Torino
+Evren Ayberk Munis, Politecnico di Torino +
+İlker Kesen, Humboldt-Universität zu Berlin
 
 == Contact
 
