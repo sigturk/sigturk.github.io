@@ -1,55 +1,177 @@
 ---
 title: "SIGTURK 2027 Workshop"
-description: "The Third Workshop on Natural Language Processing for Turkic Languages (SIGTURK 2027)"
+description: "The Third Meeting of the ACL Special Interest Group on Turkic Languages (SIGTURK 2027)"
 draft: false
 toc: true
 images: []
+aliases: ["/workshop2027/"]
 contributors: []
 ---
 
-// PLACEHOLDER: this page is a stub. Replace the "To be announced" sections
-// with the workshop details and call for papers. See ../2026/_index.adoc for
-// the structure used last time.
+[.lead]
+*The Third Meeting of the ACL Special Interest Group on Turkic Languages*
 
-SIGTURK— +
-The Third Workshop on +
-*Natural Language Processing for Turkic Languages* +
-At ACL 2027
-
-Kyoto, Japan +
-August 18 or 19, 2027 (exact date to be confirmed)
-
-The workshop will also host a shared task. See the
-link:/workshops/2027/shared-task/[Shared Task] page for details.
-
-== Call for Papers
-
-_The call for papers will be announced soon._
+Co-located with https://2027.aclweb.org/[ACL 2027] · Kyoto, Japan · August 21 or 22, 2027 (exact date TBA)
 
 == Introduction
 
-_To be announced._
+The Third Meeting of the ACL Special Interest Group on Turkic Languages
+(SIGTURK 2027) will be held in conjunction with the 65th Annual Meeting
+of the Association for Computational Linguistics (https://2027.aclweb.org/[ACL 2027]) in Kyoto,
+Japan.
+
+SIGTURK provides a venue for research on computational linguistics and
+natural language processing (NLP) for Turkic languages. Building on the
+previous editions, SIGTURK 2027 welcomes research across all areas of
+Turkic NLP, with particular emphasis on resources and benchmarks,
+adaptation and evaluation of large language models, and multimodal
+language technologies. We especially encourage contributions addressing
+under-resourced Turkic languages, regional varieties, and diverse
+writing systems.
+
+The main objectives of the workshop are to:
+
+* Promote the creation, curation, standardization, evaluation, and open
+sharing of corpora, benchmarks, and software libraries that support
+reproducible research across the Turkic language family.
+* Encourage participation by researchers working on Turkic languages,
+particularly those based in under-represented communities.
+* Host a shared task that establishes strong baselines and fosters
+collaboration on key challenges in Turkic NLP.
+* Provide a venue for discussing tokenization, morphology, evaluation,
+and modeling methods suitable for the typological features of Turkic
+languages.
+* Strengthen collaboration among academia, industry, and local
+communities to advance NLP methods and tools across Turkic languages.
 
 == Important Dates
 
-_To be announced._
+[cols="2,1",options="header"]
+|===
+| Event | Date
+| Direct paper submission deadline | May 2, 2027
+| ARR commitment deadline | TBA
+| Notification of acceptance | May 29, 2027
+| Camera-ready submission deadline | June 19, 2027
+| Workshop | August 21 or 22, 2027 (TBA)
+|===
 
-== Topics of interest
+All dates are tentative until confirmed with the ACL 2027 workshop
+chairs. Deadlines are at 23:59 UTC-12:00 ("`anywhere on Earth`").
+Shared task and benchmark contribution deadlines are listed on the
+link:/workshops/2027/shared-task/[Shared Task] page.
 
-_To be announced._
+== Topics of Interest
 
-=== Submissions
+We invite submissions on all aspects of Turkic computational linguistics
+and NLP. Topics of interest include, but are not limited to:
 
-_To be announced._
+* Creation, curation, documentation, and evaluation of datasets,
+corpora, and benchmarks for monolingual and multilingual tasks
+* Computational modeling of Turkic morphology, syntax, semantics, and
+other linguistic phenomena
+* Tokenization, morphology-aware modeling, and diagnostic probing of
+language models
+* Large language model pretraining, continual adaptation, and
+parameter-efficient fine-tuning for Turkic languages
+* Rigorous evaluation of language models, including cultural and
+linguistic capabilities across Turkic languages and varieties
+* Cross-lingual transfer between Turkic languages and between Turkic and
+other languages, including zero-shot and low-resource adaptation
+* Multimodal NLP, including speech, optical character recognition, and
+document processing
+* Responsible NLP, including privacy, safety, fairness, and bias
+mitigation
+* NLP applications, open-source software libraries, and tools for
+Turkic languages
 
-=== Event details and registration
+== Shared Task: Culture and Understanding across Turkic Languages
 
-_To be announced._
+The workshop hosts a shared task on adapting multilingual large language
+models to improve their cultural and linguistic capabilities in Turkic
+languages. Systems will be evaluated on tasks such as cultural knowledge
+reasoning, reading comprehension, and cross-lingual cultural
+understanding across diverse Turkic languages and varieties.
 
-=== Organizers
+Languages, tracks, rules, evaluation, and the timeline are on the
+link:/workshops/2027/shared-task/[Shared Task] page.
 
-_To be announced._
+=== Community Benchmark Contributions
 
-== More information
+Alongside the shared task, we invite community contributions to the
+Culture and Understanding across Turkic Languages benchmark: cultural
+knowledge questions, dialect identification examples, and reading
+comprehension passages for under-resourced Turkic languages.
 
-_To be announced._
+Accepted contributions will be integrated into a unified benchmark
+suite, and contributors will be invited to co-author a joint overview
+paper, subject to contribution and authorship criteria. Instructions on
+submission, expert validation, data licensing, and deadlines will be
+published on the link:/workshops/2027/shared-task/[Shared Task] page.
+
+Benchmark contributions and shared task participation are separate,
+each with its own submission instructions and timeline.
+
+== Submissions
+
+We invite:
+
+* *Research papers* of up to 8 pages, excluding references. Shorter
+papers are welcome; we make no formal distinction between long and
+short papers. Accepted papers receive one additional page for the
+camera-ready version.
+* *Shared task system descriptions* of 4–6 pages, excluding references.
+
+All papers must use the official
+https://github.com/acl-org/acl-style-files[ACL templates]. Research
+papers submitted directly must be anonymized for double-blind review.
+
+Papers can be submitted through two routes:
+
+. *Direct submission* via the workshop's OpenReview venue, with
+double-blind review by the program committee. _The submission link will
+be posted here._
+. *ARR commitment* of papers already reviewed through ACL Rolling Review,
+by the ARR commitment deadline. Submitting to ARR alone does not count
+as a submission to the workshop. _The commitment link, eligible ARR
+cycles, and review requirements will be posted here._
+
+Policies on submission language, concurrent submissions, and previously
+published work will also be posted on this page.
+
+We encourage authors to share code, datasets, models, and documentation
+where possible, using appropriate licenses and preserving anonymity
+during review.
+
+Accepted papers will be published in the workshop proceedings and
+presented as talks or posters. Any presentation-only or non-archival
+options will be announced separately.
+
+== Workshop Format
+
+SIGTURK 2027 is planned as a one-day hybrid event, in person in Kyoto
+with remote participation, subject to confirmation of the conference
+arrangements. Registration and presentation requirements will be
+announced on this page.
+
+We aim to provide an inclusive venue for NLP researchers, linguists,
+industry practitioners, and members of Turkic-speaking communities, and
+particularly welcome students and researchers working on
+under-represented languages and varieties.
+
+Outstanding contributions will be recognized with a Best Paper Award
+and Honorable Mentions.
+
+== Organizers
+
+Abdullatif Köksal, Google DeepMind, United Kingdom +
+Dilara Keküllüoğlu, Sabancı University, Türkiye +
+Sherzod Hakimov, University of Potsdam, Germany +
+Jonne Sälevä, Brandeis University, United States +
+Çağrı Toraman, Middle East Technical University, Türkiye +
+İlker Kesen, Humboldt-Universität zu Berlin, Germany
+
+== Contact
+
+For questions, email mailto:sigturk.secretary@gmail.com[sigturk.secretary@gmail.com].
+For general SIGTURK news, see http://sigturk.org[sigturk.org].
