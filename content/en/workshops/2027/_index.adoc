@@ -85,7 +85,7 @@ mitigation
 * NLP applications, open-source software libraries, and tools for
 Turkic languages
 
-== Shared Task: Culture and Understanding across Turkic Languages
+== Shared Task: Culture and Understanding Across Turkic Languages
 
 The workshop hosts a shared task on adapting multilingual large language
 models to improve their cultural and linguistic capabilities in Turkic
@@ -99,7 +99,7 @@ link:/workshops/2027/shared-task/[Shared Task] page.
 === Community Benchmark Contributions
 
 Alongside the shared task, we invite community contributions to the
-Culture and Understanding across Turkic Languages benchmark: cultural
+Culture and Understanding Across Turkic Languages benchmark: cultural
 knowledge questions, dialect identification examples, and reading
 comprehension passages for under-resourced Turkic languages.
 

@@ -8,7 +8,7 @@ aliases: ["/sharedtask2027/"]
 contributors: []
 ---
 
-== Culture and Understanding across Turkic Languages
+== Culture and Understanding Across Turkic Languages
 
 The SIGTURK 2027 shared task evaluates cultural and linguistic understanding in five Turkic languages written in three scripts.
 It has two tracks, Text / LLM and Vision / VLM. Teams may enter either track or both.
