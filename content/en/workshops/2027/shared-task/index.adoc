@@ -75,7 +75,7 @@ Task examples and the leaderboards are at https://sigturk2027.github.io/[sigturk
 == How to Participate
 
 . *Choose a track or both.*
-. *Validate your submission* with the validation data and public evaluator after their release on October 22, 2026.
+. *Validate your submission* with the validation data and public evaluator after their release on November 2, 2026.
 . *Register and submit.* Registration, platform, and submission-format details will be announced before submissions open.
 . *Describe your system.* System-paper requirements and the paper schedule will be published with the final participation rules.
 
@@ -88,8 +88,8 @@ The dates below are the current estimated schedule. Remaining dates will be adde
 [cols="2,1",options="header"]
 |===
 | Event | Date
-| Validation data and public evaluator release | October 22, 2026
-| Public leaderboards open | October 27, 2026
+| Validation data and public evaluator release | November 2, 2026
+| Public leaderboards open | November 9, 2026
 | Model submission deadline | TBA
 | Final evaluation results announced | TBA
 | System paper submissions open | TBA
