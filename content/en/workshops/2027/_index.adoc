@@ -11,7 +11,7 @@ contributors: []
 [.lead]
 *The Third Meeting of the ACL Special Interest Group on Turkic Languages*
 
-Co-located with https://2027.aclweb.org/[ACL 2027] · Kyoto, Japan · August 21 or 22, 2027 (exact date TBA)
+Co-located with https://2027.aclweb.org/[ACL 2027] · Kyoto, Japan · August 18 or 29, 2027 (exact date TBA)
 
 == Introduction
 
@@ -49,11 +49,11 @@ communities to advance NLP methods and tools across Turkic languages.
 [cols="2,1",options="header"]
 |===
 | Event | Date
-| Direct paper submission deadline | May 2, 2027
-| ARR commitment deadline | TBA
-| Notification of acceptance | May 29, 2027
-| Camera-ready submission deadline | June 19, 2027
-| Workshop | August 21 or 22, 2027 (TBA)
+| Direct paper submission deadline | April 28, 2027
+| ARR commitment deadline | April 28, 2027
+| Notification of acceptance | May 26, 2027
+| Camera-ready submission deadline | June 16, 2027
+| Workshop | August 18 or 19, 2027 (TBA)
 |===
 
 All dates are tentative until confirmed with the ACL 2027 workshop
