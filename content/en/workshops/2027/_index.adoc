@@ -113,12 +113,24 @@ papers submitted directly must be anonymized for double-blind review.
 Papers can be submitted through two routes:
 
 . *Direct submission* via the workshop's OpenReview venue, with
-double-blind review by the program committee. _The submission link will
-be posted here._
+double-blind review by the program committee.
+
+++++
+<div class="col-lg-9 col-xl-8 text-center">
+  <a class="btn btn-primary btn-lg px-4 mb-2" href="https://openreview.net/group?id=aclweb.org/ACL/2027/Workshop/SIGTURK" role="button">Direct Submission</a>
+</div>
+++++
+
 . *ARR commitment* of papers already reviewed through ACL Rolling Review,
 by the ARR commitment deadline. Submitting to ARR alone does not count
-as a submission to the workshop. _The commitment link, eligible ARR
-cycles, and review requirements will be posted here._
+as a submission to the workshop. 
+
+++++
+<div class="col-lg-9 col-xl-8 text-center">
+  <a class="btn btn-primary btn-lg px-4 mb-2" href="https://openreview.net/group?id=aclweb.org/ACL/2027/Workshop/SIGTURK_ARR_Commitment" role="button">ARR Commitment</a>
+</div>
+++++
+
 
 Policies on submission language, concurrent submissions, and previously
 published work will also be posted on this page.
