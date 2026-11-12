@@ -1,0 +1,25 @@
+Subject: Final Deadline Extension for SIGTURK 2024 Workshop
+
+Dear researchers,
+
+We hope this email finds you well. In consideration of potential conflicts with other conferences and venues, we have decided to further extend the paper submission deadline for the First Annual Meeting of the ACL Special Interest Group on Turkic Languages (SIGTURK) Workshop to June 18, 2024 (Tuesday). This final extension aims to provide even more researchers with the opportunity to participate in this inaugural event and showcase their novel research contributions.
+
+Please note the following updated important dates:
+
+* Workshop Paper Submission Deadline: June 18, 2024 (Tuesday)
+* Notification of Acceptance: June 24, 2024 (Monday)
+* Camera-ready Papers Due: July 1, 2024 (Monday)
+* Workshop Dates: August 15-16, 2024 (Thursday-Friday)
+
+Please note that all deadlines are now 23:59 GMT (same as UTC-0) to align with OpenReview.
+
+We encourage submissions on various topics related to computational linguistics and natural language processing in Turkic languages. The SIGTURK Workshop provides an excellent platform to present your research, exchange ideas, and collaborate with researchers from diverse backgrounds who share an interest in Turkic language processing.
+
+For more information about the workshop, submission guidelines, and templates, please visit our official website: https://sigturk.com/workshop
+
+If you have any questions or concerns, feel free to reach out to us at workshop@sigturk.com.
+
+We appreciate your understanding and flexibility regarding these deadline extensions. We look forward to receiving your submissions and seeing you at the SIGTURK Workshop in Bangkok!
+
+Best regards,
+SIGTURK
