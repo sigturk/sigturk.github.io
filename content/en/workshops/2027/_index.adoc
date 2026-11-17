@@ -11,7 +11,7 @@ contributors: []
 [.lead]
 *The Third Meeting of the ACL Special Interest Group on Turkic Languages*
 
-Co-located with https://2027.aclweb.org/[ACL 2027] · Kyoto, Japan · August 18 or 29, 2027 (exact date TBA)
+Co-located with https://2027.aclweb.org/[ACL 2027] · Kyoto, Japan · August 18 or 19, 2027 (exact date TBA)
 
 == Introduction
 
